@@ -1,0 +1,24 @@
+{
+  "total_texts": 2117,
+  "by_project": {
+    "saao": 161,
+    "rinap": 965,
+    "riao": 713,
+    "ribo": 278
+  },
+  "by_period": {
+    "Neo-Assyrian": 1471,
+    "Middle Assyrian": 268,
+    "Neo-Babylonian": 234,
+    "Old Assyrian": 108,
+    "Middle Babylonian": 29,
+    "Achaemenid": 3,
+    "Old Akkadian": 2,
+    "Ur III": 1,
+    "Hellenistic": 1
+  },
+  "avg_src_length": 706.6,
+  "avg_tgt_length": 413.3,
+  "total_src_tokens": 1495862,
+  "total_tgt_tokens": 875030
+}

@@ -2,8 +2,8 @@
 models/
 qlora/
 
-# Data files
-data/
+# Large data files (>100MB GitHub limit)
+data/competition/publications.csv
 
 # IDE / OS
 .claude/
