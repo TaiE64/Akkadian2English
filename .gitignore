@@ -3,7 +3,7 @@ models/
 qlora/
 
 # Large data files (>100MB GitHub limit)
-data/competition/publications.csv
+# data/competition/publications.csv  # Now tracked by Git LFS
 
 # IDE / OS
 .claude/
