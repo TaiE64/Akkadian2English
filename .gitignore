@@ -1,0 +1,18 @@
+# Models (too large for git)
+models/
+qlora/
+
+# Data files
+data/
+
+# IDE / OS
+.claude/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Kaggle
+*.kaggle/
+
+# Large HTML
+*.html

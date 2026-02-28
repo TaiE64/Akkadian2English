@@ -1,0 +1,156 @@
+[
+  {
+    "preprocess": "pre_v11",
+    "postprocess": "post_raw",
+    "bleu": 10.36,
+    "chrf": 30.8,
+    "geomean": 17.86
+  },
+  {
+    "preprocess": "pre_v15",
+    "postprocess": "post_raw",
+    "bleu": 10.36,
+    "chrf": 30.8,
+    "geomean": 17.86
+  },
+  {
+    "preprocess": "pre_v11",
+    "postprocess": "post_v11",
+    "bleu": 10.11,
+    "chrf": 31.13,
+    "geomean": 17.74
+  },
+  {
+    "preprocess": "pre_v11",
+    "postprocess": "post_v15+rmquote",
+    "bleu": 10.11,
+    "chrf": 31.13,
+    "geomean": 17.74
+  },
+  {
+    "preprocess": "pre_v11",
+    "postprocess": "post_v15+rmqp",
+    "bleu": 10.11,
+    "chrf": 31.13,
+    "geomean": 17.74
+  },
+  {
+    "preprocess": "pre_v15",
+    "postprocess": "post_v11",
+    "bleu": 10.11,
+    "chrf": 31.13,
+    "geomean": 17.74
+  },
+  {
+    "preprocess": "pre_v15",
+    "postprocess": "post_v15+rmquote",
+    "bleu": 10.11,
+    "chrf": 31.13,
+    "geomean": 17.74
+  },
+  {
+    "preprocess": "pre_v15",
+    "postprocess": "post_v15+rmqp",
+    "bleu": 10.11,
+    "chrf": 31.13,
+    "geomean": 17.74
+  },
+  {
+    "preprocess": "pre_v11",
+    "postprocess": "post_v15",
+    "bleu": 10.07,
+    "chrf": 31.08,
+    "geomean": 17.7
+  },
+  {
+    "preprocess": "pre_v11",
+    "postprocess": "post_v15+shekels",
+    "bleu": 10.07,
+    "chrf": 31.08,
+    "geomean": 17.7
+  },
+  {
+    "preprocess": "pre_v11",
+    "postprocess": "post_v15+slash",
+    "bleu": 10.07,
+    "chrf": 31.08,
+    "geomean": 17.7
+  },
+  {
+    "preprocess": "pre_v11",
+    "postprocess": "post_v15+rmparen",
+    "bleu": 10.07,
+    "chrf": 31.08,
+    "geomean": 17.7
+  },
+  {
+    "preprocess": "pre_v15",
+    "postprocess": "post_v15",
+    "bleu": 10.07,
+    "chrf": 31.08,
+    "geomean": 17.7
+  },
+  {
+    "preprocess": "pre_v15",
+    "postprocess": "post_v15+shekels",
+    "bleu": 10.07,
+    "chrf": 31.08,
+    "geomean": 17.7
+  },
+  {
+    "preprocess": "pre_v15",
+    "postprocess": "post_v15+slash",
+    "bleu": 10.07,
+    "chrf": 31.08,
+    "geomean": 17.7
+  },
+  {
+    "preprocess": "pre_v15",
+    "postprocess": "post_v15+rmparen",
+    "bleu": 10.07,
+    "chrf": 31.08,
+    "geomean": 17.7
+  },
+  {
+    "preprocess": "pre_v11",
+    "postprocess": "post_v15+words",
+    "bleu": 10.05,
+    "chrf": 31.03,
+    "geomean": 17.66
+  },
+  {
+    "preprocess": "pre_v15",
+    "postprocess": "post_v15+words",
+    "bleu": 10.05,
+    "chrf": 31.03,
+    "geomean": 17.66
+  },
+  {
+    "preprocess": "pre_v11",
+    "postprocess": "post_v15+fracs",
+    "bleu": 10.03,
+    "chrf": 30.96,
+    "geomean": 17.62
+  },
+  {
+    "preprocess": "pre_v15",
+    "postprocess": "post_v15+fracs",
+    "bleu": 10.03,
+    "chrf": 30.96,
+    "geomean": 17.62
+  },
+  {
+    "preprocess": "pre_v11",
+    "postprocess": "post_v15+full",
+    "bleu": 10.0,
+    "chrf": 30.91,
+    "geomean": 17.58
+  },
+  {
+    "preprocess": "pre_v15",
+    "postprocess": "post_v15+full",
+    "bleu": 10.0,
+    "chrf": 30.91,
+    "geomean": 17.58
+  }
+]
