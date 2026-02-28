@@ -16,13 +16,18 @@ class QLoRAConfig:
     data_dir: str = "data"
 
     # ============ DATA ============
-    enriched_path: str = "data/manwithacat_enriched/train_enriched.csv"
-    oracc_path: str = "data/manwithacat_combined/combined_akkadian_v2_oracc.csv"
+    # Safe training data (high quality)
     competition_train_path: str = "data/competition/train.csv"
+    clean_v1_path: str = "data/01_safe_training/clean_v1/train_clean_v1.csv"
+    phuc_oa_path: str = "data/01_safe_training/phucthaiv02_oa_sentences/train.parquet"
+    michel_path: str = "data/01_safe_training/michel_oa_letters/train.csv"
+    # Risky training data (PDF extracted, lower quality)
+    phuc_pdf_path: str = "data/02_risky_training/phucthaiv02_pdf_extracted/train_oa_filtered.parquet"
+
     prepared_data_dir: str = "qlora/prepared_data"
 
     val_ratio: float = 0.05
-    oa_upsample: int = 3          # Old Assyrian data upsampling factor
+    use_risky_data: bool = True   # Whether to include phuc_pdf (risky) data
     max_source_len: int = 512     # byte-level tokenization
     max_target_len: int = 384
     seed: int = 42

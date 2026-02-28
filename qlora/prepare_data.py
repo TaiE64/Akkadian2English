@@ -238,38 +238,81 @@ def preprocess_target(text: str) -> str:
 # Data loading and merging
 # ============================================================
 def load_and_merge_data(cfg):
-    """Load all data sources, deduplicate, return unified DataFrame."""
+    """Load all data sources, deduplicate, return unified DataFrame.
+
+    Data sources (priority order for dedup):
+      1. competition/train.csv       - gold standard, document-level
+      2. clean_v1                    - sentence-level, curated
+      3. phuc_oa                     - sentence-level, high quality
+      4. michel                      - sentence-level, OA letters
+      5. phuc_pdf (risky)            - sentence-level, PDF extracted
+    """
     print("Loading data sources...")
+    dfs = []
 
-    # Load enriched data (highest quality)
-    enriched = pd.read_csv(cfg.enriched_path, encoding="utf-8")
-    enriched = enriched.rename(columns={"transliteration": "src", "translation": "tgt"})
-    enriched["is_oa"] = True  # Old Assyrian domain
-    print(f"  Enriched: {len(enriched)} rows")
+    # 1. Competition train.csv (document-level, gold standard)
+    comp = pd.read_csv(cfg.competition_train_path, encoding="utf-8")
+    comp = comp.rename(columns={"transliteration": "src", "translation": "tgt"})
+    comp["source_dataset"] = "competition"
+    comp["is_doc_level"] = True
+    print(f"  competition/train.csv: {len(comp)} rows (document-level)")
+    dfs.append(comp[["src", "tgt", "source_dataset", "is_doc_level"]])
 
-    # Load ORACC data (additional, multi-period)
-    oracc = pd.read_csv(cfg.oracc_path, encoding="utf-8")
-    oracc_extra = oracc[oracc["origin"] != "competition"].copy()
-    oracc_extra = oracc_extra.rename(columns={"source": "src", "target": "tgt"})
-    oracc_extra["is_oa"] = False  # Non-OA data
-    print(f"  ORACC (non-competition): {len(oracc_extra)} rows")
+    # 2. clean_v1 (sentence-level)
+    cv1 = pd.read_csv(cfg.clean_v1_path, encoding="utf-8")
+    cv1 = cv1.rename(columns={"transliteration": "src", "translation": "tgt"})
+    cv1["source_dataset"] = "clean_v1"
+    cv1["is_doc_level"] = False
+    print(f"  clean_v1: {len(cv1)} rows")
+    dfs.append(cv1[["src", "tgt", "source_dataset", "is_doc_level"]])
 
-    # Combine
-    combined = pd.concat([
-        enriched[["src", "tgt", "is_oa"]],
-        oracc_extra[["src", "tgt", "is_oa"]],
-    ], ignore_index=True)
+    # 3. phuc_oa (sentence-level, parquet)
+    poa = pd.read_parquet(cfg.phuc_oa_path)
+    poa = poa.rename(columns={"transliteration": "src", "translation": "tgt"})
+    poa["source_dataset"] = "phuc_oa"
+    poa["is_doc_level"] = False
+    print(f"  phuc_oa: {len(poa)} rows")
+    dfs.append(poa[["src", "tgt", "source_dataset", "is_doc_level"]])
+
+    # 4. michel (sentence-level, different column names)
+    mic = pd.read_csv(cfg.michel_path, encoding="utf-8")
+    mic = mic.rename(columns={"akkadian": "src", "english": "tgt"})
+    mic["source_dataset"] = "michel"
+    mic["is_doc_level"] = False
+    print(f"  michel: {len(mic)} rows")
+    dfs.append(mic[["src", "tgt", "source_dataset", "is_doc_level"]])
+
+    # 5. phuc_pdf (risky, sentence-level, parquet)
+    if cfg.use_risky_data:
+        ppdf = pd.read_parquet(cfg.phuc_pdf_path)
+        ppdf = ppdf.rename(columns={"transliteration": "src", "translation": "tgt"})
+        ppdf["source_dataset"] = "phuc_pdf"
+        ppdf["is_doc_level"] = False
+        print(f"  phuc_pdf (risky): {len(ppdf)} rows")
+        dfs.append(ppdf[["src", "tgt", "source_dataset", "is_doc_level"]])
+    else:
+        print("  phuc_pdf: SKIPPED (use_risky_data=False)")
+
+    # Combine all
+    combined = pd.concat(dfs, ignore_index=True)
+    print(f"\n  Total before cleaning: {len(combined)} rows")
 
     # Drop rows with empty/NaN source or target
     combined = combined.dropna(subset=["src", "tgt"])
     combined = combined[combined["src"].str.strip() != ""]
     combined = combined[combined["tgt"].str.strip() != ""]
-    print(f"  After cleaning: {len(combined)} rows")
+    print(f"  After dropping empty: {len(combined)} rows")
 
-    # Deduplicate by source text (keep first)
+    # Deduplicate by source text (keep first = higher priority dataset)
     before_dedup = len(combined)
     combined = combined.drop_duplicates(subset=["src"], keep="first").reset_index(drop=True)
-    print(f"  After dedup: {len(combined)} rows (removed {before_dedup - len(combined)})")
+    print(f"  After dedup by src: {len(combined)} rows (removed {before_dedup - len(combined)})")
+
+    # Dataset composition
+    print(f"\n  Dataset composition:")
+    for ds, cnt in combined["source_dataset"].value_counts().items():
+        doc_flag = " (doc-level)" if combined[combined["source_dataset"] == ds]["is_doc_level"].any() else ""
+        print(f"    {ds}: {cnt}{doc_flag}")
 
     return combined
 
@@ -299,21 +342,12 @@ def prepare_dataset(cfg):
     combined = combined[long_mask].reset_index(drop=True)
     print(f"After long filter: {len(combined)} rows (removed {n_removed} too-long entries)")
 
-    # Train/val split BEFORE upsampling (prevent data leakage)
+    # Train/val split (stratify by source_dataset to keep proportional)
     train_df, val_df = train_test_split(
-        combined, test_size=cfg.val_ratio, random_state=cfg.seed
+        combined, test_size=cfg.val_ratio, random_state=cfg.seed,
+        stratify=combined["source_dataset"]
     )
-    print(f"\nSplit (before upsample): Train={len(train_df)}, Val={len(val_df)}")
-
-    # Upsample OA data in TRAIN only
-    train_oa = train_df[train_df["is_oa"]]
-    train_non_oa = train_df[~train_df["is_oa"]]
-    print(f"  Train OA: {len(train_oa)} rows (will upsample {cfg.oa_upsample}x)")
-    print(f"  Train Non-OA: {len(train_non_oa)} rows")
-
-    train_df = pd.concat([train_oa] * cfg.oa_upsample + [train_non_oa], ignore_index=True)
     train_df = train_df.sample(frac=1, random_state=cfg.seed).reset_index(drop=True)
-
     val_df = val_df.reset_index(drop=True)
     print(f"\nFinal: Train={len(train_df)}, Val={len(val_df)}")
 
