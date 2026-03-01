@@ -1,0 +1,7 @@
+[     201ms] [WARNING] No `HydrateFallback` element provided to render during initial hydration @ https://www.kaggle.com/static/assets/vendor.js?v=704070c93829c513:251
+[     556ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.kaggle.com/api/i/competitions.PageService/GetPage:0
+[     576ms] TypeError: t.message.contains is not a function
+    at https://www.kaggle.com/static/assets/8796.aa74a46815748106.js:1:33522
+    at Object.<anonymous> (https://www.kaggle.com/static/assets/8796.aa74a46815748106.js:1:27553)
+    at I (https://www.kaggle.com/static/assets/8796.aa74a46815748106.js:1:25213)
+    at l (https://www.kaggle.com/static/assets/8796.aa74a46815748106.js:1:25446)

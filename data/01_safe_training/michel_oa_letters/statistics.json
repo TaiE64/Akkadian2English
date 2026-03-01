@@ -1,0 +1,23 @@
+{
+  "dataset": "Michel Correspondance des marchands de Kanish",
+  "source": "C\u00e9cile Michel, LAPO 19 (2001)",
+  "total_texts": 264,
+  "unique_genres": {
+    "letter": 237,
+    "unknown": 10,
+    "administrative regulation": 8,
+    "debt note": 3,
+    "agreement (contract)": 2,
+    "purchase guarantee": 2,
+    "note": 1,
+    "memo": 1
+  },
+  "avg_akkadian_length": 694,
+  "avg_english_length": 727,
+  "letter_range": {
+    "min": 1,
+    "max": 400
+  },
+  "extraction_method": "OCR from publications.csv + cross-reference with published_texts.csv",
+  "translation_pipeline": "French (Michel) -> English (Google Translate)"
+}
