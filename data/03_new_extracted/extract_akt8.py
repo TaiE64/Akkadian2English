@@ -137,6 +137,11 @@ _LOGOGRAM_FIXES = [
     (re.compile(r'[ŠṬṢē]UNIGIN'), 'ŠUNIGIN'),
     (re.compile(r'[ŠṬṢē]À\.BA'), 'ŠÀ.BA'),
     (re.compile(r'[ŠṬṢē]U\.NIGIN'), 'ŠU.NIGIN'),
+    # Aššur: encoded as A!!ur, A""ur, A##ur, A&&ur, A%%ur, A$$ur
+    # All produce garbled variants (AŠšur, Aāāur, AŠṭur, etc.) → normalize
+    (re.compile(r'A[ŠšṭṬṣṢēĒāĀ]{2}ur'), 'Aššur'),
+    # Ištar: uppercase I causes next encoded char to map as Š instead of š
+    (re.compile(r'I[ŠṬṢē]tar'), 'Ištar'),
 ]
 
 
@@ -148,7 +153,8 @@ def _fix_encoded_word(word: str) -> str:
     result = []
     for i, ch in enumerate(chars):
         if ch in _QUOTE_CHARS:
-            # Quotes adjacent to alpha chars → š/Š (e.g. A""ur → Aššur, "a → ša)
+            # Italic font: " → ā (long vowel), not š
+            # (š/Š mapping only applies in Regular font for A""ur → Aššur)
             prev_alpha = chars[i - 1].isalpha() if i > 0 else False
             next_alpha = chars[i + 1].isalpha() if i + 1 < len(chars) else False
             if prev_alpha or next_alpha:
@@ -156,7 +162,7 @@ def _fix_encoded_word(word: str) -> str:
                 prev_c = chars[i - 1] if i > 0 else ''
                 next_up = next_c.isupper() if (next_c and next_c.isalpha()) else False
                 prev_up = prev_c.isupper() if (prev_c and prev_c.isalpha()) else False
-                result.append('Š' if (next_up or prev_up) else 'š')
+                result.append('Ā' if (next_up or prev_up) else 'ā')
             else:
                 result.append(ch)
         elif ch == '(' and i == 0:
@@ -167,6 +173,10 @@ def _fix_encoded_word(word: str) -> str:
                 result.append('Š')
             else:
                 result.append(ch)
+        elif ch == '&' and i == 0:
+            # '&' at word start → Š (names: Šu-, Ša-lim, etc.)
+            # Mid-word '&' → ā (long vowel) — handled by FONT_ENCODED_CHARS below
+            result.append('Š')
         elif ch in FONT_ENCODED_CHARS:
             next_c = chars[i + 1] if i + 1 < len(chars) else ''
             prev_c = chars[i - 1] if i > 0 else ''
@@ -182,10 +192,96 @@ def fix_font_encoding(text: str) -> str:
     """Apply context-based font char fix, then normalize known logograms."""
     # 1. Direct 1:1 replacements (°→⌈, ¿→⌉, ¡→!)
     text = text.translate(_DIRECT_MAP)
-    # 2. Context-based symbol → transliteration char
+    # 2a. Fraction chars after digits: ' and & → ½
+    text = re.sub(r"(\d)\s*[&']", r'\1 ½', text)
+    # 2b. Pre-process: double-quote pairs between alpha → šš (A""ur → Aššur)
+    text = re.sub(r'([a-zA-Z])""([a-zA-Z])', r'\1šš\2', text)
+    text = re.sub(r'([a-zA-Z])\u201c\u201d([a-zA-Z])', r'\1šš\2', text)
+    text = re.sub(r'([a-zA-Z])\u201d\u201c([a-zA-Z])', r'\1šš\2', text)
+    # 3. Context-based symbol → transliteration char
     words = text.split(' ')
     fixed = ' '.join(_fix_encoded_word(w) for w in words)
     # 3. Normalize known logogram patterns
+    for pat, repl in _LOGOGRAM_FIXES:
+        fixed = pat.sub(repl, fixed)
+    return fixed
+
+
+def _fix_encoded_word_translation(word: str) -> str:
+    """Fix font-encoded chars in translation text (conservative).
+
+    Same logic as _fix_encoded_word but with guards to preserve English:
+      - '"' only mapped when BOTH neighbors are alpha (preserves "quotes")
+      - '!' not mapped at word-final position (preserves exclamation!)
+      - '(' never mapped (preserves parentheticals in English)
+      - '&' at word start only if NOT followed by space-like context
+    """
+    if not any(ch in word for ch in FONT_ENCODED_CHARS | _QUOTE_CHARS):
+        return word
+    chars = list(word)
+    n = len(chars)
+    result = []
+    for i, ch in enumerate(chars):
+        prev_alpha = chars[i - 1].isalpha() if i > 0 else False
+        next_alpha = chars[i + 1].isalpha() if i + 1 < n else False
+
+        if ch in _QUOTE_CHARS:
+            # Single " between alpha → ā (Italic Akkadian words in translation)
+            # Note: "" → šš (A""ur → Aššur) is handled by pre-processing regex
+            if prev_alpha and next_alpha:
+                next_c = chars[i + 1]
+                prev_c = chars[i - 1]
+                next_up = next_c.isupper() if next_c.isalpha() else False
+                prev_up = prev_c.isupper() if prev_c.isalpha() else False
+                result.append('Ā' if (next_up or prev_up) else 'ā')
+            else:
+                result.append(ch)
+        elif ch == '!':
+            # '!' only map when next char is alpha (preserves gold!, City!")
+            if next_alpha:
+                next_c = chars[i + 1]
+                prev_c = chars[i - 1] if i > 0 else ''
+                next_up = next_c.isupper() if next_c.isalpha() else False
+                prev_up = prev_c.isupper() if (prev_c and prev_c.isalpha()) else False
+                result.append(_UPPER_MAP['!'] if (next_up or prev_up) else _LOWER_MAP['!'])
+            else:
+                result.append(ch)
+        elif ch == '(':
+            # Never map ( in translation — too many English false positives
+            result.append(ch)
+        elif ch in FONT_ENCODED_CHARS:
+            # #$%& — use standard case-context mapping
+            next_c = chars[i + 1] if i + 1 < n else ''
+            prev_c = chars[i - 1] if i > 0 else ''
+            next_up = next_c.isupper() if (next_c and next_c.isalpha()) else False
+            prev_up = prev_c.isupper() if (prev_c and prev_c.isalpha()) else False
+            result.append(_UPPER_MAP[ch] if (next_up or prev_up) else _LOWER_MAP[ch])
+        else:
+            result.append(ch)
+    return ''.join(result)
+
+
+def fix_font_encoding_translation(text: str) -> str:
+    """Conservative font fix for English translation text.
+
+    Applies safe 1:1 replacements, then context-based fixes with guards
+    to preserve English punctuation (quotes, exclamations, parentheses).
+    Uses two passes to handle sequential encoded chars (A!!ur → AŠšur).
+    """
+    text = text.translate(_DIRECT_MAP)
+    # Fraction chars after digits: ' and & → ½
+    text = re.sub(r"(\d)\s*[&']", r'\1 ½', text)
+    # Pre-process: double-quote pairs between alpha → šš (A""ur → Aššur)
+    text = re.sub(r'([a-zA-Z])""([a-zA-Z])', r'\1šš\2', text)
+    text = re.sub(r'([a-zA-Z])\u201c\u201d([a-zA-Z])', r'\1šš\2', text)
+    text = re.sub(r'([a-zA-Z])\u201d\u201c([a-zA-Z])', r'\1šš\2', text)
+    # Two passes: first pass maps chars with alpha neighbors, second pass
+    # catches chars that were blocked by adjacent encoded chars
+    words = text.split(' ')
+    fixed = ' '.join(_fix_encoded_word_translation(w) for w in words)
+    words2 = fixed.split(' ')
+    fixed = ' '.join(_fix_encoded_word_translation(w) for w in words2)
+    # Normalize known logogram patterns
     for pat, repl in _LOGOGRAM_FIXES:
         fixed = pat.sub(repl, fixed)
     return fixed
@@ -482,7 +578,7 @@ def extract_akt8(pdf_path):
             tgt = re.sub(r'\s{2,}', ' ', ' '.join(trans_buf)).strip()
             # Fix SemiramisUnicode font encoding (!→š, #→ṭ, etc.)
             src = fix_font_encoding(src)
-            tgt = fix_font_encoding(tgt)
+            tgt = fix_font_encoding_translation(tgt)
             # Post-process: remove seal annotations from transliteration
             src = SEAL_ANNOTATION_RE.sub('', src).strip()
             src = re.sub(r'\s{2,}', ' ', src)
