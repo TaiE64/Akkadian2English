@@ -1,5 +1,6 @@
 # Models (too large for git)
 models/
+data/external/masspeaks/
 data/05_models/
 qlora/qlora_checkpoints/
 qlora/qlora_adapter_final/

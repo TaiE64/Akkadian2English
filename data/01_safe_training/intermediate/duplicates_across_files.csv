@@ -1,0 +1,635 @@
+﻿transliteration,translation,source_file
+0.3333 ma-na 1.3333 GÍN KÙ.BABBAR ṣa-ru-pá-am i li-bi šé-ep-IŠTAR 1 GÍN iš-tí e-wa-ri-mu-ša,0.3333 mina 1.3333 shekel of refined silver is in Šēp-Ištar's possession.,train.csv
+0.3333 ma-na 1.3333 GÍN KÙ.BABBAR ṣa-ru-pá-am i li-bi šé-ep-IŠTAR 1 GÍN iš-tí e-wa-ri-mu-ša,0.3333 mina 1.3333 shekel of refined silver is in Šēp-Ištar's possession. 1 shekel is owed by Ewarimuša.,train_dataset_w_most_sources.csv
+0.3333 ma-na 5 GÍN KÙ.BABBAR ṣa-ru-pá-am ga-al-dá-a ša e-la-ma i-be-i-el KI KÙ.BABBAR-pí-im uk-ta-al IGI lá-qé-pì-im IGI a-mur-{d}UTU IGI e-ze-e šu-ma ú-da-pí-ir 1 GÍN.TA i-na ITU.KAM ú-ṣa-áb,"25 shekels of refined silver Galdaya of Elamma will manage. He is held in service with the silver. Witnessed by Lā-qēpum, by Amur-Šamaš, by Ezē. If he disappears he will add 1 shekel of silver as interest per month.",train.csv
+0.3333 ma-na 5 GÍN KÙ.BABBAR ṣa-ru-pá-am ga-al-dá-a ša e-la-ma i-be-i-el KI KÙ.BABBAR-pí-im uk-ta-al IGI lá-qé-pì-im IGI a-mur-{d}UTU IGI e-ze-e šu-ma ú-da-pí-ir 1 GÍN.TA i-na ITU.KAM ú-ṣa-áb,"25 shekels of refined silver Galdaya of Elamma <<of Elamma>> will manage. He is held in service with the silver. Witnessed by Lā-qēpum, by Amur-Šamaš, by Ezē. If he disappears he will add 1 shekel of silver as interest per month.",train_dataset_w_most_sources.csv
+0.5 GÍN KÙ.BABBAR a-na NINDA 2 ší-ni-šu šé-ni-in ša sí-ni-iš-tim 20 sí-pá-ra-tum 10.5 GÍN AN.NA 5-ší-šu ma-ar-šu ša 0.25 GÍN du-ug-lu i-nu-mì a-na ku-bu-ur-na-at a-ṣé-er ì-lí-dan a-dí-da ù sá-li-a a-lu-wa áš-pu-ru a-na qá-tí-šu a-dí-in,"0.5 shekel of silver for bread. 2 pairs of women's shoes, 20 bronze pins, 10.5 shekels of tin, five sets of leather straps, duglu worth 1 / 4 shekel - when I sent Aluwa to Kuburnat to Ilī-dan, Adida and Salliya I gave this to him to dispose over.",train.csv
+0.5 GÍN KÙ.BABBAR a-na NINDA 2 ší-ni-šu šé-ni-in ša sí-ni-iš-tim 20 sí-pá-ra-tum 10.5 GÍN AN.NA 5-ší-šu ma-ar-šu ša 0.25 GÍN du-ug-lu i-nu-mì a-na ku-bu-ur-na-at a-ṣé-er ì-lí-dan a-dí-da ù sá-li-a a-lu-wa áš-pu-ru a-na qá-tí-šu a-dí-in,"0.5 shekel of silver for bread. 2 pairs of womens shoes, 20 bronze pins, 10.5 shekels of tin, five sets of leather straps, duglu worth ¼ shekel - when I sent Aluwa to Kuburnat to Ilī-dan, Adida and Salliya I gave this to him to dispose over.",train_dataset_w_most_sources.csv
+0.5 ma-na 3 GÍN KÙ.BABBAR ší-im a-ma-tim i-na li-bi <gap>-an i-na tù-wa-ri-šu KÙ.BABBAR i-ša-qal,"0.5 mina 3 shekels of silver, the price of slave-girls, is owed by <gap>an.",train.csv
+0.5 ma-na 3 GÍN KÙ.BABBAR ší-im a-ma-tim i-na li-bi <gap>-an i-na tù-wa-ri-šu KÙ.BABBAR i-ša-qal,"0.5 mina 3 shekels of silver, the price of slave-girls, is owed by <gap>-an. He will pay the silver when he returns.",train_dataset_w_most_sources.csv
+0.5 ma-na 5.5 GÍN KÙ.BABBAR KI ṣí-li-IŠTAR ša ší-na-hu-tim,0.5 mina 5.5 shekels of silver is with Ṣilli-Ištar of Šinahuttum.,phucthaiv02_oa_sentences.csv
+0.5 ma-na 5.5 GÍN KÙ.BABBAR KI ṣí-li-IŠTAR ša ší-na-hu-tim,0.5 mina 5.5 shekels of silver is owed by Ṣilli-Ištar from Šinahuttum.,train_dataset_w_most_sources.csv
+0.6666 ma-na KÙ.BABBAR ṣa-ru-pá-am bé-ú-la-tim ša ir-ma-a-šùr a-šùr-GAL ú-kà-al iš-tí KÙ.BABBAR a-šùr-GAL uk-ta-al IGI a-šùr-GAL IGI en-um-a-šùr,"0.6666 mina of refined silver, the working capital of Ir'am-Aššur, Aššur-rabi has in his possession. With the silver Aššur-rabi is held (in service). Witnessed by Aššur-rabi, by Ennam-Aššur",train.csv
+0.6666 ma-na KÙ.BABBAR ṣa-ru-pá-am bé-ú-la-tim ša ir-ma-a-šùr a-šùr-GAL ú-kà-al iš-tí KÙ.BABBAR a-šùr-GAL uk-ta-al IGI a-šùr-GAL IGI en-um-a-šùr,"0.6666 mina of refined silver, the working capital of Iram-Aššur, Aššur-rabi has in his possession. With the silver Aššur-rabi is held in service. Witnessed by Aššur-rabi, by Ennam-Aššur",train_dataset_w_most_sources.csv
+1 ANŠE me-et,One donkey is dead.,akkadian-translation.csv
+1 ANŠE me-et,1 donkey is dead;,phucthaiv02_oa_sentences.csv
+1 GÍN KÙ.BABBAR KI DINGIR-ra-bi,1 shekel of silver owed by Ilī-rabi.,train.csv
+1 GÍN KÙ.BABBAR KI DINGIR-ra-bi,1 shekel of silver owed by Ilī-rabi.,train_dataset_w_most_sources.csv
+1 GÍN KÙ.BABBAR be-lúm-ba-ni,1 shekel of silver: Bēlum-bāni;,phucthaiv02_oa_sentences.csv
+1 GÍN KÙ.BABBAR be-lúm-ba-ni,1 shekel of silver: Bēlum-bāni;,train_dataset_w_most_sources.csv
+1 GÍN im-ṭí,1 shekel was missing.,akkadian-translation.csv
+1 GÍN im-ṭí,it was 1 shekel short.,phucthaiv02_oa_sentences.csv
+1 GÚ-tum 1 ma-na.TA i-na ša-bu-ri-im im-ṭí,One mina per talent was missing during the breaking up.,akkadian-translation.csv
+1 GÚ-tum 1 ma-na.TA i-na ša-bu-ri-im im-ṭí,1 mina per talent was lost during the breaking up;,phucthaiv02_oa_sentences.csv
+1 TÚG ša qá-tim i-tur₄-DINGIR il₅-qé,Itūr-ilī has received one textile of ordinary quality.,phucthaiv02_oa_sentences.csv
+1 TÚG ša qá-tim i-tur₄-DINGIR il₅-qé,Itūr-ilī has received one textile of ordinary quality.,train.csv
+1 ku-lu-ma-a 1 a-ta-a ma-nu-ba 1 šu-IŠTAR 1 DU₁₀-ṣí-lá-a-šur 1 ba-al-ṭù-a 1 a-lá-ku,"1 Kulumaya, 1 Ataya, Mannuba, 1 Šu-Ištar, 1 Ṭāb-ṣilli-Aššur, 1 Balṭuwa, 1 Alāku.",phucthaiv02_oa_sentences.csv
+1 ku-lu-ma-a 1 a-ta-a ma-nu-ba 1 šu-IŠTAR 1 DU₁₀-ṣí-lá-a-šur 1 ba-al-ṭù-a 1 a-lá-ku,"Kulumaya, Ataya, Mannuba, Šu-Ištar Ṭāb-ṣilli-Aššur, Balṭuwa, Alāku.",train.csv
+1 ma-na 6 GÍN ṣa-ru-pu-um DUMU e-ra-dí 16 GÍN KÙ.BABBAR ṣí-lá-da-ad É kà-ri-im ip-qí-du-nim,1 mina 6 shekels of refined (silver): the son of Erra-idī;,train.csv
+1 ma-na 6 GÍN ṣa-ru-pu-um DUMU e-ra-dí 16 GÍN KÙ.BABBAR ṣí-lá-da-ad É kà-ri-im ip-qí-du-nim,1 mina 6 shekels of refined silver: the son of Erra-idī;,train_dataset_w_most_sources.csv
+1.25 GÍN KÙ.BABBAR i-na li-bi4 lu-lu,1 1/4 shekel of silver is owed by Lulu.,phucthaiv02_oa_sentences.csv
+1.25 GÍN KÙ.BABBAR i-na li-bi4 lu-lu,1 ¼ shekel of silver is owed by Lulu.,train_dataset_w_most_sources.csv
+1.5 GÍN KÙ.BABBAR a-na a-šur-ma-lik,1.5 shekel of silver for Aššur-malik;,phucthaiv02_oa_sentences.csv
+1.5 GÍN KÙ.BABBAR a-na a-šur-ma-lik,1.5 shekel of silver for Aššur-malik;,train_dataset_w_most_sources.csv
+1.5 GÍN KÙ.BABBAR a-na pu-šu-ki-in,1.5 shekel of silver for Pūšu-kēn;,phucthaiv02_oa_sentences.csv
+1.5 GÍN KÙ.BABBAR a-na pu-šu-ki-in,1.5 shekel of silver for Pūšu-kēn;,train_dataset_w_most_sources.csv
+1.5 GÍN KÙ.BABBAR a-šu-mì a-zu e-mì-šu ša a-lu-wa mu-ṭá-e ú-ra-dí,"1.5 shekel of silver, underweight, I added in the name of Azu the brother-in-law of Aluwa.",phucthaiv02_oa_sentences.csv
+1.5 GÍN KÙ.BABBAR a-šu-mì a-zu e-mì-šu ša a-lu-wa mu-ṭá-e ú-ra-dí,"1.5 shekel of silver, underweight, I added in the name of Azu the brother-in-law of Aluwa.",train.csv
+1.5 GÍN KÙ.BABBAR a-šu-mì a-zu e-mì-šu ša a-lu-wa mu-ṭá-e ú-ra-dí,"1.5 shekel of silver, underweight, I added in the name of Azu the brother-in-law of Aluwa.",train_dataset_w_most_sources.csv
+1.5 GÍN KÙ.BABBAR ta-áš-me-tum,1.5 shekel of silver: Tašmētum.,phucthaiv02_oa_sentences.csv
+1.5 GÍN KÙ.BABBAR ta-áš-me-tum,1.5 shekel of silver: Tašmētum.,train_dataset_w_most_sources.csv
+1.5 ma-na KÙ.BABBAR en-um-a-šùr DUMU ša-lim-a-šur a-na šu-IŠTAR DUMU šu-ki-tim i-nu-mì a-na a-lim{ki} i-lu-ku i-da-šu-ma 3 ma-na KÙ.BABBAR ṣa-ru-pá-am i-na tù-wa-ri-šu šu-IŠTAR a-na en-um-a-šùr i-ša-qal IGI šu-ma-bi-a DUMU a-mu-ra-a IGI la-qé-ep DUMU šu-a-šùr,"Ennam-Aššur son of Šalim-Aššur will give 1.5 mina of silver to Šu-Ištar son of Šukkutum when he goes to the City, and on his return Šu-Ištar will pay 3 minas of refined silver to Ennam-Aššur. Witnessed by Šumi-abiya son of Amuraya, by Lā-qēp son of Šu-Aššur.",train.csv
+1.5 ma-na KÙ.BABBAR en-um-a-šùr DUMU ša-lim-a-šur a-na šu-IŠTAR DUMU šu-ki-tim i-nu-mì a-na a-lim{ki} i-lu-ku i-da-šu-ma 3 ma-na KÙ.BABBAR ṣa-ru-pá-am i-na tù-wa-ri-šu šu-IŠTAR a-na en-um-a-šùr i-ša-qal IGI šu-ma-bi-a DUMU a-mu-ra-a IGI la-qé-ep DUMU šu-a-šùr,"Ennam-Aššur son of Šalim-Aššur will give 1.5 mina of silver to Šu-Ištar son of Šukkutum when he goes to the City, and on his return Šu-Ištar will pay 3 minas of refined silver to Ennam-Aššur. Witnessed by Šumi-abiya son of Amuraya, by Lā-qēp son of Šu-Aššur.",train_dataset_w_most_sources.csv
+1.5 ma-na KÙ.BABBAR i-na mì-ší-tim 0.6666 ma-na 5 GÍN i šál-ša-tim ša ILLAT-at a-šùr-kàr-wa ù a-šur-i-mì-tí ad-ma-ku,I am entitled to a share of 1.5 mina of silver in the holding (and) to 45 shekels of in the one-third parts of the caravan of Aššur-karwa and Aššur-imittī.,train.csv
+1.5 ma-na KÙ.BABBAR i-na mì-ší-tim 0.6666 ma-na 5 GÍN i šál-ša-tim ša ILLAT-at a-šùr-kàr-wa ù a-šur-i-mì-tí ad-ma-ku,I am entitled to a share of 1.5 mina of silver in the holding and to 45 shekels of in the one-third parts of the caravan of Aššur-karwa and Aššur-imittī.,train_dataset_w_most_sources.csv
+10 G,Suen-r,akkadian-translation.csv
+10 G,he must pay 10 shekels of silver here.,phucthaiv02_oa_sentences.csv
+10 G,"10 shekels of silver I gave to Iddin-Suen, son of Ennānum.",phucthaiv02_oa_sentences.csv
+10 GÍN AN.NA i-na li-bi₄ be-lá-nim a-dí-in,I gave 10 shekels of tin to Bēlānum's possession.,phucthaiv02_oa_sentences.csv
+10 GÍN AN.NA i-na li-bi₄ be-lá-nim a-dí-in,I gave 10 shekels of tin to Bēlānum's possession.,train.csv
+10 GÍN KÙ.BABBAR a-na a-dí-da a-dí-in IGI id-na-a IGI <gap>-bi-a,10 shekels of silver I gave to Adida.,train.csv
+10 GÍN KÙ.BABBAR a-na a-dí-da a-dí-in IGI id-na-a IGI <gap>-bi-a,10 shekels of silver I gave to Adida. Witnessed by Idnāya <gap>-biya,train_dataset_w_most_sources.csv
+10 GÍN KÙ.BABBAR a-na i-dí-sú-en DUMU en-na-ni-im a-dí-in,"10 shekels of silver I gave to Iddin-Suen, son of Ennānum.",train.csv
+10 GÍN KÙ.BABBAR a-na i-dí-sú-en DUMU en-na-ni-im a-dí-in,"10 shekels of silver I gave to Iddin-Suen, son of Ennānum.",train_dataset_w_most_sources.csv
+10 GÍN KÙ.BABBAR ša a-lá-ḫi-im i li-be a-ni-na,10 shekels of silver belonging to Ali-ahum is owed by Annina.,phucthaiv02_oa_sentences.csv
+10 GÍN KÙ.BABBAR ša a-lá-ḫi-im i li-be a-ni-na,10 shekels of silver belonging to Ali-ahum is owed by Annina.,train.csv
+11 GÍN KÙ.BABBAR ša a-mur-IŠTAR KI en-um-a-šùr i-ba-ší IGI a-šùr-ba-ni,11 shekels of silver belonging to Amur-Ištar is owed by Ennam-Aššur. Witnessed by Aššur-bāni.,train.csv
+11 GÍN KÙ.BABBAR ša a-mur-IŠTAR KI en-um-a-šùr i-ba-ší IGI a-šùr-ba-ni,11 shekels of silver belonging to Amur-Ištar is owed by Ennam-Aššur. Witnessed by Aššur-bāni.,train_dataset_w_most_sources.csv
+11 na-ru-qá-tum na-ṣí-a-tum 9 e-ba-al sí-kà-tim <gap>,"11 torn(?) sacks, 9 ropes with pegs <gap>",train.csv
+11 na-ru-qá-tum na-ṣí-a-tum 9 e-ba-al sí-kà-tim <gap>,"11 torn? sacks, 9 ropes with pegs <gap>",train_dataset_w_most_sources.csv
+12 GÍN KÙ.BABBAR ṣí-ba-at 2 ma-na KÙ.BABBAR i li-bi tù-um-li-a-i-im,"12 shekels of silver, the interest on 2 minas of silver, is owed by the man from Tumliya.",phucthaiv02_oa_sentences.csv
+12 GÍN KÙ.BABBAR ṣí-ba-at 2 ma-na KÙ.BABBAR i li-bi tù-um-li-a-i-im,"12 shekels of silver, the interest on 2 minas of silver, is owed by the man from Tumliya.",train.csv
+12 GÍN KÙ.BABBAR ṣí-ba-at 2 ma-na KÙ.BABBAR i li-bi tù-um-li-a-i-im,"12 shekels of silver, the interest on 2 minas of silver, is owed by the man from Tumliya.",train_dataset_w_most_sources.csv
+12 GÍN KÙ.BABBAR ṣí-ba-at 8 ma-na KÙ.BABBAR i-li-ik,12 shekels of silver became the interest on 8 minas of silver.,phucthaiv02_oa_sentences.csv
+12 GÍN KÙ.BABBAR ṣí-ba-at 8 ma-na KÙ.BABBAR i-li-ik,12 shekels of silver became the interest on 8 minas of silver.,train.csv
+12 GÍN KÙ.BABBAR ṣí-ba-at 8 ma-na KÙ.BABBAR i-li-ik,12 shekels of silver became the interest on 8 minas of silver.,train_dataset_w_most_sources.csv
+15 GÍN AN.NA a-na e-ri-qí-im áš-qúl,I paid 15 shekels of tin for a wagon.,akkadian-translation.csv
+15 GÍN AN.NA a-na e-ri-qí-im áš-qúl,I paid 15 shekels of tin for the wagon.,phucthaiv02_oa_sentences.csv
+15 ma-na URUDU ma-sí-um i li-bi a-šur-kà-ší-id DUMU ik-ra-a,15 minas of washed copper is owed by Aššur-kāšid son of Ikraya.,phucthaiv02_oa_sentences.csv
+15 ma-na URUDU ma-sí-um i li-bi a-šur-kà-ší-id DUMU ik-ra-a,15 minas of washed copper is owed by Aššur-kāšid son of Ikraya.,train_dataset_w_most_sources.csv
+16 GÚ 13 ma-na URUDU SIG₅ ŠÀ.BA 6 GÚ 40 ma-na URUDU SIG₅ ší-im KÙ.BABBAR iš-tí ì-lí-dan a-ba-ba ra-bi₄-ṣú-um ù a-lá-ḫu-um il₅-qé,"The attorney Ababa and Ali-ahum received 16 talents 13 minas of good copper; thereof 6 talents 40 minas of good copper, the price of silver - from Ilī-dan.",phucthaiv02_oa_sentences.csv
+16 GÚ 13 ma-na URUDU SIG₅ ŠÀ.BA 6 GÚ 40 ma-na URUDU SIG₅ ší-im KÙ.BABBAR iš-tí ì-lí-dan a-ba-ba ra-bi₄-ṣú-um ù a-lá-ḫu-um il₅-qé,"The attorney Ababa and Ali-ahum received 16 talents 13 minas of good copper; thereof 6 talents 40 minas of good copper, the price of silver - from Ilī-dan.",train.csv
+18 ma-na AN.NA 10 ma-na.TA 4 ma-na LÁ 15 GÍN 9 ma-na.TA ta-dí-in,"18 minas of tin were sold at 10 minas each, 4 minas less 15 shekels at 9 minas each.",akkadian-translation.csv
+18 ma-na AN.NA 10 ma-na.TA 4 ma-na LÁ 15 GÍN 9 ma-na.TA ta-dí-in,"18 minas of tin at 10 minas each, and 4 minas less 15 shekels at 9 minas each were sold;",phucthaiv02_oa_sentences.csv
+2 G,"Aššur-taklaku son of Kartaya leads 2 talents of tin and 11 textiles (on) one black donkey to you. He did not enter Kaneš, but from Zalpa he went (via) the Narrow Track.",akkadian-translation.csv
+2 G,the interest is two shekels of silver per month,akkadian-translation.csv
+2 G,He took 2 shekels per mina as deducted amounts.,phucthaiv02_oa_sentences.csv
+2 G,he will add interest at the rate of 2 shekels (per mina) per month.,phucthaiv02_oa_sentences.csv
+2 G,2 shekels of silver are in the possession of our own Šu-Ištar.,phucthaiv02_oa_sentences.csv
+2 G,"2 talents 13 minas of copper with Ilĥ-bāni, son of Ibni-ilĥ.",phucthaiv02_oa_sentences.csv
+2 GÍN KÙ.BABBAR i-nu-mì ma-nu-ba-al-ma-a-šur a-ša-sú e-hu-zu a-dí-in,I gave 2 shekels of silver when Mannum-balum-Aššur married his wife.,phucthaiv02_oa_sentences.csv
+2 GÍN KÙ.BABBAR i-nu-mì ma-nu-ba-al-ma-a-šur a-ša-sú e-hu-zu a-dí-in,I gave 2 shekels of silver when Mannum-balum-Aššur married his wife.,train_dataset_w_most_sources.csv
+2 TÚG ša DAM.MÍ kur-ub-IŠTAR a-na a-šur-ma-lik a-dí-in,I gave 2 textiles of the wife of Kurub-Ištar to Aššur-malik.,phucthaiv02_oa_sentences.csv
+2 TÚG ša DAM.MÍ kur-ub-IŠTAR a-na a-šur-ma-lik a-dí-in,Two textiles of the wife,train.csv
+2 TÚG ša DAM.MÍ kur-ub-IŠTAR a-na a-šur-ma-lik a-dí-in,"Two textiles of the wife, Kurub-Ištar gave to Aššur-malik.",train_dataset_w_most_sources.csv
+2 ma-na KÙ.BABBAR a ba-zi-a 1 ma-na KÙ.BABBAR ù ṣí-ba-sú ša dan-a-šur 1 ma-na KÙ.BABBAR É kà-ri-im 0.5 ma-na KÙ.BABBAR wa-wa-li a-šur-i-mì-tí ŠÀ.BA 2.5 ma-na 0.5 GÍN KÙ.BABBAR ir-ma-a-šur i-lá-qé mì-ma a-nim a-na ir-ma-a-šur e-zi-ib IGI šu-IŠTAR DUMU da-da-nim IGI sà-ba-sí-a,"2 minas of silver for Baziya; 1 mina of silver with the interest on it of Dān-Aššur; 1 mina of silver of the colonial office; 0.5 mina of silver Wawali (and) Aššur-imittī - Of this Ir'am-Aššur will take 2 minas 30.5 shekels of silver. All this I left to Ir'am-Aššur, in the presence of Šu-Ištar, son of Dadānum, and of Sabasiya.",train.csv
+2 ma-na KÙ.BABBAR a ba-zi-a 1 ma-na KÙ.BABBAR ù ṣí-ba-sú ša dan-a-šur 1 ma-na KÙ.BABBAR É kà-ri-im 0.5 ma-na KÙ.BABBAR wa-wa-li a-šur-i-mì-tí ŠÀ.BA 2.5 ma-na 0.5 GÍN KÙ.BABBAR ir-ma-a-šur i-lá-qé mì-ma a-nim a-na ir-ma-a-šur e-zi-ib IGI šu-IŠTAR DUMU da-da-nim IGI sà-ba-sí-a,"2 minas of silver for Baziya; 1 mina of silver with the interest on it of Dān-Aššur; 1 mina of silver of the colonial office; 0.5 mina of silver Wawali and Aššur-imittī - Of this Iram-Aššur will take 2 minas 30.5 shekels of silver. All this I left to Iram-Aššur, in the presence of Šu-Ištar, son of Dadānum, and of Sabasiya.",train_dataset_w_most_sources.csv
+2 ú-kà-pu-ú e-dí-ú tum ša iš-tí du-du-ú a-na kà-ar-pá-at ú na-bi-it ṭá-áb-tim al-qé-ú ù e-ma-sú-um ša 10 qé-e iš-tí en-um-a-šùr DUMU ší-ip-ri-im i-na té-ga-ra-ma i-ba-ší 0.5 GÍN KÙ.BABBAR ša {d}UTU-ba-ni i li-bi a-sà-nim 1 GÍN KÙ.BABBAR i tù-a-ri-šu i-da-šum,"2 <gap> saddlecloths which I acquired from Dudu for one jar and a <gap> of salt. And one emasum with a capacity of 10 quarts is with Ennum-Assur, the son of the messenger, in Tegarama. 0.5 shekel of silver of Samas-bani is due from Asanum, when he comes back he will give him 1 shekel of silver.",train.csv
+2 ú-kà-pu-ú e-dí-ú tum ša iš-tí du-du-ú a-na kà-ar-pá-at ú na-bi-it ṭá-áb-tim al-qé-ú ù e-ma-sú-um ša 10 qé-e iš-tí en-um-a-šùr DUMU ší-ip-ri-im i-na té-ga-ra-ma i-ba-ší 0.5 GÍN KÙ.BABBAR ša {d}UTU-ba-ni i li-bi a-sà-nim 1 GÍN KÙ.BABBAR i tù-a-ri-šu i-da-šum,"2 <gap> saddlecloths which I acquired from Dudu for one jar and a <gap> of salt. And one emasum with a capacity of 10 quarts is with Ennum-Assur, the son of the messenger, in Tegarama. 0.5 shekel of silver of Samas-bani is due from Asanum, when he comes back he will give him 1 shekel of silver.",train_dataset_w_most_sources.csv
+23.5 GÚ SÍG.HI.A 66 maš-ku 10 ANŠE ṣa-lá-mu ú ú-nu-sú-nu 25 TÚG.HI.A mì-ma a-nim i ša-ni-tim šé-pí-šu-nu,"23.5 talents of wool, 66 fleeces, 10 black donkeys and their harness, 25 textiles - all this in their second transport.",phucthaiv02_oa_sentences.csv
+23.5 GÚ SÍG.HI.A 66 maš-ku 10 ANŠE ṣa-lá-mu ú ú-nu-sú-nu 25 TÚG.HI.A mì-ma a-nim i ša-ni-tim šé-pí-šu-nu,"23.5 talents of wool, 66 fleeces, 10 black donkeys plus their harness, 25 textiles - all this in their second transport.",train_dataset_w_most_sources.csv
+25 ma-na URUDU SIG₅ KI i-ku-pì-a DUMU i-ku-pì-a,25 minas of good copper owed by Ikūn-pīya son of Ikūn-pīya.,phucthaiv02_oa_sentences.csv
+25 ma-na URUDU SIG₅ KI i-ku-pì-a DUMU i-ku-pì-a,25 minas of good copper owed by Ikūn-pīya son of Ikūn-pīya.,train.csv
+3 GÍN KÙ.BABBAR i li-be ṣú-li-a a-lá-hu-um i-šu,Ṣulliya owes 3 shekels of silver to Ali-ahum.,phucthaiv02_oa_sentences.csv
+3 GÍN KÙ.BABBAR i li-be ṣú-li-a a-lá-hu-um i-šu,Ṣulliya owes 3 shekels of silver to Ali-ahum.,train_dataset_w_most_sources.csv
+30 ma-na URUDU ší-ku-um ú 2 GÍN KÙ.BABBAR ṣa-ru-pu-um i-na li-bi e-la-lí DUMU kàr-wa i-na ŠÀ.BA 1 ma-na AN.NA ki-ma 18 ma-na i-dí-nam,30 minas of šikku-copper and 2 shekels of refined silver is owed by Elāli son of Karwaya.,train.csv
+30 ma-na URUDU ší-ku-um ú 2 GÍN KÙ.BABBAR ṣa-ru-pu-um i-na li-bi e-la-lí DUMU kàr-wa i-na ŠÀ.BA 1 ma-na AN.NA ki-ma 18 ma-na i-dí-nam,30 minas of šikku-copper and 2 shekels of refined silver is owed by Elāli son of Karwaya.,train_dataset_w_most_sources.csv
+4 GÍN KÙ.BABBAR a-na a-ša-at a-mur-IŠTAR a-dí-in,I gave 4 shekels of silver to Amur-Ištar's wife.,phucthaiv02_oa_sentences.csv
+4 GÍN KÙ.BABBAR a-na a-ša-at a-mur-IŠTAR a-dí-in,I gave 4 shekels of silver to Amur-Ištar's wife.,train.csv
+4 GÍN KÙ.BABBAR a-na a-ša-at a-mur-IŠTAR a-dí-in,I gave 4 shekels of silver to Amur-Ištars wife.,train_dataset_w_most_sources.csv
+4 GÍN KÙ.BABBAR i-nu-mì ku-da-tum a-na a-lim{ki} i-li-ku ak-ru-ub-šu-um,When Kudātum went to the City I dedicated 4 shekels of silver as a blessing for him.,train.csv
+4 GÍN KÙ.BABBAR i-nu-mì ku-da-tum a-na a-lim{ki} i-li-ku ak-ru-ub-šu-um,When Kudātum went to the City I dedicated 4 shekels of silver as a blessing for him.,train_dataset_w_most_sources.csv
+4.5 GÍN KÙ.BABBAR a-na ša da-tí-šu a-na a-lu-wa a-dí-in,I gave 4.5 shekels of silver for the payment of his fees to Aluwa.,train.csv
+4.5 GÍN KÙ.BABBAR a-na ša da-tí-šu a-na a-lu-wa a-dí-in,I gave 4.5 shekels of silver for the payment of his fees to Aluwa.,train_dataset_w_most_sources.csv
+5 GÍN KÙ.BABBAR ša ší-im 2 UDU iš-tí PUZUR₄-e-nam,Puzur-Ennam owes 5 shekels of silver for the price of 2 sheep.,phucthaiv02_oa_sentences.csv
+5 GÍN KÙ.BABBAR ša ší-im 2 UDU iš-tí PUZUR₄-e-nam,5 shekels of silver from the price of 2 sheep is owed by Puzur-Ennam.,train.csv
+5 na-ru-uq lu ŠE um lu ar-ša-tum ša a-we-el-tum i-ta-dí-nu-ma 1 ma-na KÙ.BABBAR a-lá-ḫu-um il₅-qé,"For 5 sacks, both barley and wheat, which the lady delivered, Ali-ahum received 1 mina of silver.",phucthaiv02_oa_sentences.csv
+5 na-ru-uq lu ŠE um lu ar-ša-tum ša a-we-el-tum i-ta-dí-nu-ma 1 ma-na KÙ.BABBAR a-lá-ḫu-um il₅-qé,"For 5 sacks, both barley and wheat, which the lady delivered, Ali-ahum received 1 mina of silver.",train.csv
+5.5 ma-na URUDU SIG₅ a-na a-we-el-tim tù-um-li-a-tim wa-al-dí-DINGIR ú-bi-il₅,Waldi-ilum brought 5.5 minas of good copper to the lady from Tumliya.,phucthaiv02_oa_sentences.csv
+5.5 ma-na URUDU SIG₅ a-na a-we-el-tim tù-um-li-a-tim wa-al-dí-DINGIR ú-bi-il₅,Waldi-ilum brought 5.5 minas of good copper to the lady from Tumliya.,train.csv
+6 GÍN KÙ.BABBAR a-šu-mì a-ší-it GAL ṣa-bi₄-im lu-lu ša-bu,"Lulu has been paid 6 shekels of silver in the name of Ašēt, the Chief of soldiers.",phucthaiv02_oa_sentences.csv
+6 GÍN KÙ.BABBAR a-šu-mì a-ší-it GAL ṣa-bi₄-im lu-lu ša-bu,"Lulu has been paid 6 shekels of silver in the name of Ašet, the Chief of soldiers.",train.csv
+6 ku-ta-nu ša DAM.GÀR,6 kutānus belonging to the merchant.,phucthaiv02_oa_sentences.csv
+6 ku-ta-nu ša DAM.GÀR,6 kutānus belonging to a merchant.,train.csv
+6 ku-ta-nu ša DAM.GÀR,6 kutānus belonging to a merchant.,train_dataset_w_most_sources.csv
+6.3333 ma-na URUDU ú 0.3333 ma-na AN.NA KI a-šur-ták-lá-ku 2 ma-na LÁ 5 GÍN URUDU iš-tí šu-ku-bi-im,6.3333 minas of copper and 0.3333 mina of tin is in Aššur-taklāku's possession. 2 minas less 5 shekels of copper is in Šu-Kūbum's possession.,train.csv
+6.3333 ma-na URUDU ú 0.3333 ma-na AN.NA KI a-šur-ták-lá-ku 2 ma-na LÁ 5 GÍN URUDU iš-tí šu-ku-bi-im,6.3333 minas of copper and 0.3333 mina of tin is in Aššur-taklākus possession. 2 minas less 5 shekels of copper is in Šu-Kūbums possession.,train_dataset_w_most_sources.csv
+64 e-ma-ru ú-nu-sú-nu,64 donkeys and their harness,akkadian-translation.csv
+64 e-ma-ru ú-nu-sú-nu,64 donkeys and their harness;,phucthaiv02_oa_sentences.csv
+7.25 GÍN KÙ.BABBAR té-ṣú-bu bi-il₅-tám ik-šu-ud,The additions amounted to 7.25 shekels of silver per talent.,phucthaiv02_oa_sentences.csv
+7.25 GÍN KÙ.BABBAR té-ṣú-bu bi-il₅-tám ik-šu-ud,The additions amounted to 7 1 / 4 shekels of silver per talent.,train.csv
+8 GÍN KÙ.BABBAR ṣa-ru-pá-am i-ṣé-er i-ku-mì-šar e-lá-ma i-šu iš-tù a-lim{ki} i tù-a-ri-šu i-ša-qal IGI šu-IŠTAR,8 shekels of refined silver Ikūn-Mīšar owes to Elamma. He will pay when he returns from the City. In the presence of Šu-Ištar.,train.csv
+8 GÍN KÙ.BABBAR ṣa-ru-pá-am i-ṣé-er i-ku-mì-šar e-lá-ma i-šu iš-tù a-lim{ki} i tù-a-ri-šu i-ša-qal IGI šu-IŠTAR,8 shekels of refined silver Ikūn-Mīšar owes to Elamma. He will pay when he returns from the City. In the presence of Šu-Ištar.,train_dataset_w_most_sources.csv
+9 GÍN KÙ.BABBAR i li-bi a-šùr-{d}UTU-ši ù ku-ta-ba a-na ša-pá-ar-tim ú-kà-al 2 GÍN KÙ.BABBAR i li-bi šu-IŠTAR ni-a-im,9 shekels of silver owed by Aššur-šamšī and Kutaba I hold as security.,train.csv
+9 GÍN KÙ.BABBAR i li-bi a-šùr-{d}UTU-ši ù ku-ta-ba a-na ša-pá-ar-tim ú-kà-al 2 GÍN KÙ.BABBAR i li-bi šu-IŠTAR ni-a-im,9 shekels of silver owed by Aššur-šamšī and Kutaba I hold as security.,train_dataset_w_most_sources.csv
+9 GÍN KÙ.BABBAR i-nu-mì a-na a-lim{ki} en-na-sú-in DUMU ku-bi-ku a-dí-šu-um,I gave 9 shekels of silver to Enna-Suen when he <gap> to the City.,train.csv
+9 GÍN KÙ.BABBAR i-nu-mì a-na a-lim{ki} en-na-sú-in DUMU ku-bi-ku a-dí-šu-um,I gave 9 shekels of silver to Enna-Suen when he <gap> to the City.,train_dataset_w_most_sources.csv
+96 ku-ta-nu ša ì-lí-a 12 ku-ta-nu ša a-šur-lá-ma-sí 1 me-at <gap> ša kur-ub-IŠTAR 1 me-at LÁ 2 ša e-lá-ma,"96 -textiles of Iliya, 12 -textiles of Aššur-lamassī, 100 of Kurub-Ištar, 98 of Elamma.",train.csv
+96 ku-ta-nu ša ì-lí-a 12 ku-ta-nu ša a-šur-lá-ma-sí 1 me-at <gap> ša kur-ub-IŠTAR 1 me-at LÁ 2 ša e-lá-ma,"96 kutānu-textiles of Iliya, 12 kutānu-textiles of Aššur-lamassī, 100 of Kurub-Ištar, 98 of Elamma.",train_dataset_w_most_sources.csv
+<gap> 20-<gap> TÚG šu-ra-am a-na 11 GÍN a-na É kà-ri-im a-dí-i i-na 2 ma-na 10 GÍN KÙ.BABBAR ša i-na ni-kà-sé a-na e-lá-ma i-na-pu-lu-ni-im ŠÀ.BA 1.3333 ma-na 3 GÍN KÙ.BABBAR al-qé ší-tí KÙ.BABBAR 0.6666 ma-na 7 GÍN KI a-šùr-ma-lik ì-lí-a-lim ù la-qé-ep a-lá-qé 2 ma-na 14 GÍN KÙ.BABBAR i-na ša a-šur-be-el-a-wa-tim i-na <gap>-ma <gap>,"<gap> one dark colored textile I deposited for 11 shekels at the colonial office. Of the 2 minas 10 shekels of silver that one will balance to Elamma at the accounting, 1 mina 23 shekels thereof I took; the rest of the silver, 47 shekels, I will collect from Aššur-mālik, Ilī-ālum and Lā-qēp. 2 minas 14 shekels of silver from what belongs to Aššur-bēl-awātim, from / in <gap>",train.csv
+<gap> 20-<gap> TÚG šu-ra-am a-na 11 GÍN a-na É kà-ri-im a-dí-i i-na 2 ma-na 10 GÍN KÙ.BABBAR ša i-na ni-kà-sé a-na e-lá-ma i-na-pu-lu-ni-im ŠÀ.BA 1.3333 ma-na 3 GÍN KÙ.BABBAR al-qé ší-tí KÙ.BABBAR 0.6666 ma-na 7 GÍN KI a-šùr-ma-lik ì-lí-a-lim ù la-qé-ep a-lá-qé 2 ma-na 14 GÍN KÙ.BABBAR i-na ša a-šur-be-el-a-wa-tim i-na <gap>-ma <gap>,"<gap> one dark colored textile I deposited for 11 shekels at the colonial office. Of the 2 minas 10 shekels of silver that one will balance to Elamma at the accounting, 1 mina 23 shekels thereof I took; the rest of the silver, 47 shekels, I will collect from Aššur-mālik, Ilī-ālum and Lā-qēp. 2 minas 14 shekels of silver from what belongs to Aššur-bēl-awātim, from / in <gap>",train_dataset_w_most_sources.csv
+<gap> en-nam-a-šur a-<gap> i-du-nu a-na a-wa-<gap> ṭup-pí-im i,<gap> Ennam-Aššur <gap> they gave <gap> of the tablet <gap>,train.csv
+<gap> en-nam-a-šur a-<gap> i-du-nu a-na a-wa-<gap> ṭup-pí-im i,<gap> Ennam-Aššur <gap> they gave <gap> of the tablet <gap>,train_dataset_w_most_sources.csv
+<gap> i-dì-in-ma ša-lim-a-šùr ù DUMU a-mur-IŠTAR <gap>,"<gap> the colony rendered a verdict, and Šalim-Aššur and Amur-Ištar's son <gap>",train.csv
+<gap> i-dì-in-ma ša-lim-a-šùr ù DUMU a-mur-IŠTAR <gap>,"<gap> the colony rendered a verdict, and Šalim-Aššur and Amur-Ištars son <gap>",train_dataset_w_most_sources.csv
+<gap> i-na <gap> i-lu-ku-ni <gap> a-ša-a-ma i-na pá-ni-ú-tí-ma a-ṭá-ra-da-ku-nu-tí,"<gap> in <gap>, when PN comes I will buy <gap> and send (him) to you with the first opportunity.",train.csv
+<gap> i-na <gap> i-lu-ku-ni <gap> a-ša-a-ma i-na pá-ni-ú-tí-ma a-ṭá-ra-da-ku-nu-tí,"<gap> in <gap> , when PN comes I will buy <gap> and send him to you with the first opportunity.",train_dataset_w_most_sources.csv
+<gap> ṭup-pá-am ni-mar <gap>-in KÙ.BABBAR <gap> ša-áp-ra-tù-šu <gap> ub-lá-ki-im <gap>-lá-ni-ší-na <gap> ú-kà-lu-nim <gap>,<gap> we shall see the tablet <gap> silver <gap> his pledges <gap> he brought to you (fem.) <gap> they hold <gap>,train.csv
+<gap> ṭup-pá-am ni-mar <gap>-in KÙ.BABBAR <gap> ša-áp-ra-tù-šu <gap> ub-lá-ki-im <gap>-lá-ni-ší-na <gap> ú-kà-lu-nim <gap>,<gap> we shall see the tablet <gap> silver <gap> his pledges <gap> he brought to you fem. <gap> they hold <gap>,train_dataset_w_most_sources.csv
+<gap>-na <gap> ni-kà-sí <gap> ni-sí-ù-ma <gap>-na <gap> ma-na 14 GÍN KÙ.BABBAR ša i-na <gap> i li-bi-šu a-dí-ú a-na 25 ma-na KÙ.BABBAR {d}MAR.TU-ba-ni i-ku-num a-mur-{d}a-šur ù <gap> ba <gap> ù 1 <gap>,"In <gap> we settled accounts, and for <gap> mina 14 shekels of silver that <gap>",train.csv
+<gap>-na <gap> ni-kà-sí <gap> ni-sí-ù-ma <gap>-na <gap> ma-na 14 GÍN KÙ.BABBAR ša i-na <gap> i li-bi-šu a-dí-ú a-na 25 ma-na KÙ.BABBAR {d}MAR.TU-ba-ni i-ku-num a-mur-{d}a-šur ù <gap> ba <gap> ù 1 <gap>,"In <gap> we settled accounts, and for <gap> mina 14 shekels of silver that <gap>",train_dataset_w_most_sources.csv
+<gap>-na GÍR ša a-šur iṣ-ba-at-ma a-šur-ma-lik DUMU {d}UTU-na-ṣí-ir pí-šu iš-me a-šur-ta-ak-lá-ku DUMU a-<gap> tap-pá-ú-šu,<gap>na seized Aššur's dagger and Aššur-malik son of Šamaš-nāṣir heard his statement. Aššur-taklāku son of A<gap> was his (absent) partner.,train.csv
+<gap>-na GÍR ša a-šur iṣ-ba-at-ma a-šur-ma-lik DUMU {d}UTU-na-ṣí-ir pí-šu iš-me a-šur-ta-ak-lá-ku DUMU a-<gap> tap-pá-ú-šu,<gap> na seized Aššurs dagger and Aššur-malik son of Šamaš-nāṣir heard his statement. Aššur-taklāku son of A <gap> was his absent partner.,train_dataset_w_most_sources.csv
+<gap>-ú-ma <gap> a-na ITU.10.KAM a-li i-ma-qú-tù <gap> kam ITU.1.KAM kán-wa-ar-ta li-mu-um <gap>,"<gap> within 10 months wherever they arrive <gap> Month Kanwarta, eponymy <gap>",train.csv
+<gap>-ú-ma <gap> a-na ITU.10.KAM a-li i-ma-qú-tù <gap> kam ITU.1.KAM kán-wa-ar-ta li-mu-um <gap>,"<gap> within 10 months wherever they arrive <gap> Month Kanwarta, eponymy <gap>",train_dataset_w_most_sources.csv
+AN.NA za-ku,the tin is cleared.,akkadian-translation.csv
+AN.NA za-ku,the tin is cleared.,phucthaiv02_oa_sentences.csv
+ANŠE iš-tí TÚG.ḪI.A e-mì-da,Combine the donkey with the textiles (for sale).,akkadian-translation.csv
+ANŠE iš-tí TÚG.ḪI.A e-mì-da,Bundle the donkey with the textiles.,published_texts_sentences.csv
+ANŠE.ḪI-ru-kà me-tù,Your donkeys are dead.,akkadian-translation.csv
+ANŠE.ḪI-ru-kà me-tù,Your donkeys died.,published_texts_sentences.csv
+DUB ha-ru-mu-tum ša nu-a-e,Certified tablets concerning Anatolians.,phucthaiv02_oa_sentences.csv
+DUB ha-ru-mu-tum ša nu-a-e,Certified tablets concerning Anatolians.,train_dataset_w_most_sources.csv
+DUMU me-tim a-na-ku,I am the son of a dead man.,akkadian-translation.csv
+DUMU me-tim a-na-ku,I am an orphan,akkadian-translation.csv
+DUMU me-tim a-na-ku,Both sides have lost their fathers.,akkadian-translation.csv
+DUMU me-tim a-na-ku,I am the son of the deceased.,akkadian-translation.csv
+DUMU me-tim a-na-ku,I am an heir.,akkadian-translation.csv
+DUMU me-tim a-na-ku,I am an heir!,akkadian-translation.csv
+DUMU me-tim a-na-ku,I appear as heir.,akkadian-translation.csv
+DUMU me-tim a-na-ku,“I appear as heir.,akkadian-translation.csv
+DUMU me-tim a-na-ku,"""I appear as heir.""",phucthaiv02_oa_sentences.csv
+IGI GÍR ša a-šur ší-bu-tí-ni ni-dí-in,and we gave our testimony before Aššur's dagger.,phucthaiv02_oa_sentences.csv
+IGI GÍR ša a-šur ší-bu-tí-ni ni-dí-in,And we gave our testimony before Aššur's dagger.,phucthaiv02_oa_sentences.csv
+IGI GÍR ša a-šur ší-bu-tí-ni ni-dí-in,we gave our testimony before Aššur's dagger.,phucthaiv02_oa_sentences.csv
+IGI GÍR ša a-šur ší-bu-tí-ni ni-dí-in,Vor dem Dolche des Aššur haben wir unsere Beurkundung gegeben.,published_texts_sentences.csv
+IGI ku-ra DUMU i-dí-a-šur IGI en-nam-ì-lí IGI i-dí-a DUMU i-ku-nim 14 GÚ 4 ma-na URUDU ni-ip-qí-id,"Witnessed by Kura son of Iddin-Aššur, by Ennam-ilī, by Idiya son of Ikūnum.",train.csv
+IGI ku-ra DUMU i-dí-a-šur IGI en-nam-ì-lí IGI i-dí-a DUMU i-ku-nim 14 GÚ 4 ma-na URUDU ni-ip-qí-id,"Witnessed by Kura son of Iddin-Aššur, by Ennam-ilī, by Idiya son of Ikūnum.",train_dataset_w_most_sources.csv
+IGI lá-qé-ep,Witnessed by Lā-qēp.,phucthaiv02_oa_sentences.csv
+IGI lá-qé-ep,Witness: Lāqēp.,published_texts_sentences.csv
+KIŠIB <gap> KIŠIB <gap> a-na <gap> ù ša-li-ma a-ša-at ir-ma-a-šur,Seal of <gap> and seal of <gap> to Lamassitim,train.csv
+KIŠIB <gap> KIŠIB <gap> a-na <gap> ù ša-li-ma a-ša-at ir-ma-a-šur,Seal of <gap> and seal of <gap> to Lamassitim,train_dataset_w_most_sources.csv
+KIŠIB DINGIR-na-da DUMU ba-zi-a KIŠIB en-nam-a-šùr DUMU kà-ri-a KIŠIB ki-ta-a ša 0.5 ma-na KÙ.BABBAR ṣa-ru-pá-am ša e-lá-ma ki-ta-a i-bé-el iš-tí KÙ.BABBAR uk-ta-al šu-ma a-e-ša-ma ú-da-pí-ir 1 GÍN.TA i-na ITU.1.KAM i-ma-nu-šu,"Seal of Ilī-nādā, son of Baziya, seal of Ennam-Ašsur, son of Kariya(?), seal of Kitaya, that Kitaya will manage 0.5 mina of silver belonging to Elamma. He is held by the silver. If he goes away to somewhere else, he will charge him 1 shekel per month.",train.csv
+KIŠIB DINGIR-na-da DUMU ba-zi-a KIŠIB en-nam-a-šùr DUMU kà-ri-a KIŠIB ki-ta-a ša 0.5 ma-na KÙ.BABBAR ṣa-ru-pá-am ša e-lá-ma ki-ta-a i-bé-el iš-tí KÙ.BABBAR uk-ta-al šu-ma a-e-ša-ma ú-da-pí-ir 1 GÍN.TA i-na ITU.1.KAM i-ma-nu-šu,"Seal of Ilī-nādā, son of Baziya, seal of Ennam-Ašsur, son of Kariya? , seal of Kitaya, that Kitaya will manage 0.5 mina of silver belonging to Elamma. He is held by the silver. If he goes away to somewhere else, he will charge him 1 shekel per month.",train_dataset_w_most_sources.csv
+KIŠIB DINGIR.SIPA KIŠIB ì-lí-dan DUMU a-mur-IŠTAR 10.3333 GÍN KÙ.BABBAR ṣa-ru-pá-am i-ṣé-er ì-lí-dan e-la-ma i-šu KÙ.BABBAR i-na a-lim{ki} i-ša-qal,"Seal of Ilī-rē'ī, seal of Ilī-dān, son of Amur-Ištar. 10.3333 shekels of refined silver Ilī-dān owes to Elamma. He will pay the silver in the City.",train.csv
+KIŠIB DINGIR.SIPA KIŠIB ì-lí-dan DUMU a-mur-IŠTAR 10.3333 GÍN KÙ.BABBAR ṣa-ru-pá-am i-ṣé-er ì-lí-dan e-la-ma i-šu KÙ.BABBAR i-na a-lim{ki} i-ša-qal,"Seal of Ilī-rēī, seal of Ilī-dān, son of Amur-Ištar. 10.3333 shekels of refined silver Ilī-dān owes to Elamma. He will pay the silver in the City.",train_dataset_w_most_sources.csv
+KIŠIB MAN-a-šur a-na a-nu-<gap>-an,Seal of Puzur-Aššur; to Anu<gap>,train.csv
+KIŠIB MAN-a-šur a-na a-nu-<gap>-an,Seal of Puzur-Aššur; to Anu <gap>,train_dataset_w_most_sources.csv
+KIŠIB a-dí-da a-na be-lu-ba-ni a-nu-pì-a ú a-lu-wa,"Seal of Adida; to Bēlum-bāni, Anupiya and Aluwa.",train.csv
+KIŠIB a-dí-da a-na be-lu-ba-ni a-nu-pì-a ú a-lu-wa,"Seal of Adida; to Bēlum-bāni, Anupiya and Aluwa.",train_dataset_w_most_sources.csv
+KIŠIB a-ku-za DUMU šu-a-nim KIŠIB lá-qé-ep DUMU {d}AB-ba-ni KIŠIB ṣí-lu-lu DUMU ú-ku a-na a-wa-tim a-ni-a-tim kà-ru-um kà-né-eš i-dí-ni-a-tí-ma IGI GÍR ša a-šùr i-na ba-áb DINGIR ṭup-pá-am ni-dí-in,"Sealed by Akuza son of Šu-Anum, by Lā-qēp son of Illil-bāni, by Ṣilūlu son of Uku. The Kanesh colony gave us for these proceedings and we gave a tablet before Aššur's dagger in the Gate of the God.",train.csv
+KIŠIB a-ku-za DUMU šu-a-nim KIŠIB lá-qé-ep DUMU {d}AB-ba-ni KIŠIB ṣí-lu-lu DUMU ú-ku a-na a-wa-tim a-ni-a-tim kà-ru-um kà-né-eš i-dí-ni-a-tí-ma IGI GÍR ša a-šùr i-na ba-áb DINGIR ṭup-pá-am ni-dí-in,"Sealed by Akuza son of Šu-Anum, by Lā-qēp son of Illil-bāni, by Ṣilūlu son of Uku. The Kanesh colony gave us for these proceedings and we gave a tablet before Aššurs dagger in the Gate of the God.",train_dataset_w_most_sources.csv
+KIŠIB a-ku-za DUMU šu-a-nim KIŠIB ú-ra-a DUMU ma-na-na KIŠIB a-šur-ba-ni DUMU ša-lim-a-šùr a-na a-wa-tim a-ni-a-tim kà-ru-um kà-ni-iš-ki i-dí-ni-a-tí-ma IGI GÍR ša a-šùr ší-bu-tí-ni ni-dí-in,"Seal of Akuza son of Šu-Anum, seal of Uraya son of Manana, seal of Aššur-bāni son of Šalim-Aššur. The Kanesh colony gave us for these proceedings and we gave our testimony before Aššur's dagger.",train.csv
+KIŠIB a-ku-za DUMU šu-a-nim KIŠIB ú-ra-a DUMU ma-na-na KIŠIB a-šur-ba-ni DUMU ša-lim-a-šùr a-na a-wa-tim a-ni-a-tim kà-ru-um kà-ni-iš-ki i-dí-ni-a-tí-ma IGI GÍR ša a-šùr ší-bu-tí-ni ni-dí-in,"Seal of Akuza son of Šu-Anum, seal of Uraya son of Manana, seal of Aššur-bāni son of Šalim-Aššur. The Kanesh colony gave us for these proceedings and we gave our testimony before Aššurs dagger.",train_dataset_w_most_sources.csv
+KIŠIB a-lu-lá-a a-na en-nam-a-šur,Sealed by Alulaya; to Ennam-Aššur.,train.csv
+KIŠIB a-lu-lá-a a-na en-nam-a-šur,Sealed by Alulaya; to Ennam-Aššur.,train_dataset_w_most_sources.csv
+KIŠIB a-mur-IŠTAR a-na kà-lá-mu-ur,Seal of Amur-Ištar; to Kalamur.,phucthaiv02_oa_sentences.csv
+KIŠIB a-mur-IŠTAR a-na kà-lá-mu-ur,Seal of Amur-Ištar; to Kalamur.,train.csv
+KIŠIB a-mur-IŠTAR a-na kà-lá-mu-ur,Seal of Amur-Ištar; to Kalamur.,train_dataset_w_most_sources.csv
+KIŠIB a-mur-{d}UTU DUMU mì-šu-ra-bi KIŠIB na-bi-sú-in DUMU {d}AB-ba-ni KIŠIB i-ku-pí-a-šùr DUMU šu-IŠTAR a-na a-wa-tim a-ni-a-tim kà-ru-um kà-ni-iš i-dí-ni-a-tí-ma ṭup-pá-am ší-bu-tí-ni IGI GÍR ša a-šùr ni-dí-in,"Seal of Amur-Šamaš son of Miššu-rabi, seal of Nabi-Suen son of Illil-bāni, seal of Ikūn-pī-Aššur son of Šu-Ištar. The Kanesh colony gave us for these proceedings and we gave our testimony before Aššur's dagger.",train.csv
+KIŠIB a-mur-{d}UTU DUMU mì-šu-ra-bi KIŠIB na-bi-sú-in DUMU {d}AB-ba-ni KIŠIB i-ku-pí-a-šùr DUMU šu-IŠTAR a-na a-wa-tim a-ni-a-tim kà-ru-um kà-ni-iš i-dí-ni-a-tí-ma ṭup-pá-am ší-bu-tí-ni IGI GÍR ša a-šùr ni-dí-in,"Seal of Amur-Šamaš son of Miššu-rabi, seal of Nabi-Suen son of Illil-bāni, seal of Ikūn-pī-Aššur son of Šu-Ištar. The Kanesh colony gave us for these proceedings and we gave our testimony before Aššurs dagger.",train_dataset_w_most_sources.csv
+KIŠIB a-šur-ṣú-lu-li DUMU šu-lá-ba-an KIŠIB a-šur-ma-lik DUMU šu-lá-ba-an ṭup-pu-um a-ni-um ša ma-mì-it ku-ra DUMU a-šur-ma-lik,"Seal of Aššur-ṣululī, son of Šu-Labān, seal of Aššur-mālik, son of Šu-Labān. This tablet contains",train.csv
+KIŠIB a-šur-ṣú-lu-li DUMU šu-lá-ba-an KIŠIB a-šur-ma-lik DUMU šu-lá-ba-an ṭup-pu-um a-ni-um ša ma-mì-it ku-ra DUMU a-šur-ma-lik,"Seal of Aššur-ṣululī, son of Šu-Labān, seal of Aššur-mālik, son of Šu-Labān. This tablet contains",train_dataset_w_most_sources.csv
+KIŠIB a-šùr-ba-ni a-na šu-pè-e-nu-ma-an DUMU ma-lá <gap> a <gap>,Seal of Aššur-bāni; to Šuppinuman son of Mala<gap>,train.csv
+KIŠIB a-šùr-ba-ni a-na šu-pè-e-nu-ma-an DUMU ma-lá <gap> a <gap>,Seal of Aššur-bāni; to Šuppinuman son of Mala <gap>,train_dataset_w_most_sources.csv
+KIŠIB a-šùr-gi-im-li a-na a-zu-ú iš-ta-aḫ-šu ú ni-wa-lá,"Sealed by Aššur-gimlī; to Azu, Ištahšu and Niwala.",phucthaiv02_oa_sentences.csv
+KIŠIB a-šùr-gi-im-li a-na a-zu-ú iš-ta-aḫ-šu ú ni-wa-lá,"Sealed by Aššur-gimlī; to Azu, Ištahšu and Niwala.",train.csv
+KIŠIB a-šùr-ma-lik DUMU zu-a KIŠIB ga-sú <gap> 7.5 GÍN KÙ.BABBAR i-ṣé-er a-šu-a-an ú a-bu-na sú-ub-ri-kà i-šu i-nu-mì e-ṣí-du-ni ú 7.5 GÍN KÙ.BABBAR i-ša-qú-lu,"Seal of Aššur-malik son of Zuwa; seal of Ga<gap> Ašuan and Abuna, your slaves, owe 7.5 shekels of silver.",train.csv
+KIŠIB a-šùr-ma-lik DUMU zu-a KIŠIB ga-sú <gap> 7.5 GÍN KÙ.BABBAR i-ṣé-er a-šu-a-an ú a-bu-na sú-ub-ri-kà i-šu i-nu-mì e-ṣí-du-ni ú 7.5 GÍN KÙ.BABBAR i-ša-qú-lu,"Seal of Aššur-malik son of Zuwa; seal of Ga <gap> Ašuan and Abuna, your slaves, owe 7.5 shekels of silver.",train_dataset_w_most_sources.csv
+KIŠIB en-um-a-šur DUMU šu-{d}EN.LÍL KIŠIB šu-IŠTAR DUMU šu-ki-tim,"Seal of Ennam-Aššur son of Šu-Illil, seal of Šu-Ištar son of Šukkutum.",train.csv
+KIŠIB en-um-a-šur DUMU šu-{d}EN.LÍL KIŠIB šu-IŠTAR DUMU šu-ki-tim,"Seal of Ennam-Aššur son of Šu-Illil, seal of Šu-Ištar son of Šukkutum.",train_dataset_w_most_sources.csv
+KIŠIB i-ku-pí-a DUMU a-šur-ba-ni a-na en-um-a-šur i-dí-a-bi-im ù lá-qé-ep <gap>,"Seal of Ikūn-pīya son of Aššur-bāni; to Ennam-Aššur, Iddin-abum and Lā-qēp <gap>",train.csv
+KIŠIB i-ku-pí-a DUMU a-šur-ba-ni a-na en-um-a-šur i-dí-a-bi-im ù lá-qé-ep <gap>,"Seal of Ikūn-pīya son of Aššur-bāni; to Ennam-Aššur, Iddin-abum and Lā-qēp <gap>",train_dataset_w_most_sources.csv
+KIŠIB ka-ku-a DUMU i-dí-IŠTAR,"Seal of Kakua, son of Iddin-Ištar.",phucthaiv02_oa_sentences.csv
+KIŠIB ka-ku-a DUMU i-dí-IŠTAR,"Seal of Kakua, son of Iddin-Ištar",train_dataset_w_most_sources.csv
+KIŠIB ku-ku-a-ma KIŠIB šu-IŠTAR a-na en-um-a-šùr,Seal of Kukuwa and seal of Šu-Ištar; to Ennam-Aššur.,phucthaiv02_oa_sentences.csv
+KIŠIB ku-ku-a-ma KIŠIB šu-IŠTAR a-na en-um-a-šùr,Seal of Kukuwa and seal of Šu-Ištar; to Ennam-Aššur.,train.csv
+KIŠIB ku-ku-a-ma KIŠIB šu-IŠTAR a-na en-um-a-šùr,Seal of Kukuwa and seal of Šu-Ištar; to Ennam-Aššur.,train_dataset_w_most_sources.csv
+KIŠIB ku-zi-zi-a a-na en-um-a-šur DUMU šál-ma-a-šùr ù šu-be-lim,"Seal of Kuziziya; to Ennam-Aššur son of Šalim-Aššur, and Šu-Bēlum.",train.csv
+KIŠIB ku-zi-zi-a a-na en-um-a-šur DUMU šál-ma-a-šùr ù šu-be-lim,"Seal of Kuziziya; to Ennam-Aššur son of Šalim-Aššur, and Šu-Bēlum.",train_dataset_w_most_sources.csv
+KIŠIB kà-ri-im kà-ni-iš a-na ú-bar-tim ša ku-bu-ur-na-at,Seal of the Kanesh colony; to the station at Kuburnat.,phucthaiv02_oa_sentences.csv
+KIŠIB kà-ri-im kà-ni-iš a-na ú-bar-tim ša ku-bu-ur-na-at,Seal of the Kanesh colony; to the station at Kuburnat. <gap> for his extradition. Let him extradite the man there with our messenger Šēp-Ištar. And you must be the executive arm for our messenger.,train.csv
+KIŠIB kà-ri-im kà-ni-iš a-na ú-bar-tim ša ku-bu-ur-na-at,Seal of the Kanesh colony; to the station at Kuburnat. <gap> for his extradition. Let him extradite the man there with our messenger Šēp-Ištar. And you must be the executive arm for our messenger.,train_dataset_w_most_sources.csv
+KIŠIB kà-ri-im kà-ni-iš kà-ru-um dí-nam i-dí-in-ma a-na lu-qú-tim ma-la a-na a-šur-be-el-a-wa-tim i-pí-iq-du-ma ša-lim-a-šùr ú-šé-ṣí-ú ṭup-pá-am ša ku-nu-ki-šu ša-lim-a-šùr a-na šu-ku-bi-im i-da-an a-na kur-ub-IŠTAR šu-ku-bu-um ú-lá i-tù-a-ar šu-ma a-na šu-ku-bi-im ma-ma-an i-tù-a-ar ša-lim-a-šùr ú-ba-áb-šu,"Seal of the Kanesh colony. The colony has passed a verdict: for all the goods that were entrusted to Aššur-bēl-awātim, and which Šalim-Aššur had taken out, Šalim-Aššur will give a tablet bearing his seal to Šu-Kūbum. Šu-Kūbum will not raise claim against Kurub-Ištar. If anyone raises claim against Šu-Kūbum, Šalim-Aššur will clear him.",train.csv
+KIŠIB kà-ri-im kà-ni-iš kà-ru-um dí-nam i-dí-in-ma a-na lu-qú-tim ma-la a-na a-šur-be-el-a-wa-tim i-pí-iq-du-ma ša-lim-a-šùr ú-šé-ṣí-ú ṭup-pá-am ša ku-nu-ki-šu ša-lim-a-šùr a-na šu-ku-bi-im i-da-an a-na kur-ub-IŠTAR šu-ku-bu-um ú-lá i-tù-a-ar šu-ma a-na šu-ku-bi-im ma-ma-an i-tù-a-ar ša-lim-a-šùr ú-ba-áb-šu,"Seal of the Kanesh colony. The colony has passed a verdict: for all the goods that were entrusted to Aššur-bēl-awātim, and which Šalim-Aššur had taken out, Šalim-Aššur will give a tablet bearing his seal to Šu-Kūbum. Šu-Kūbum will not raise claim against Kurub-Ištar. If anyone raises claim against Šu-Kūbum, Šalim-Aššur will clear him.",train_dataset_w_most_sources.csv
+KIŠIB lá-qé-ep DUMU {d}AB-ba-ni KIŠIB a-ku-za DUMU šu-a-nim ṭup-pu-um ša ba-áb DINGIR ša IGI GÍR ša a-šùr ša ší-bu-tí-ni,"Sealed by Lā-qēp son of Illil-bāni, by Akuza son of Šu-Anum. The tablet from the Gate of the God from before Aššur's dagger, with our testimony.",train.csv
+KIŠIB lá-qé-ep DUMU {d}AB-ba-ni KIŠIB a-ku-za DUMU šu-a-nim ṭup-pu-um ša ba-áb DINGIR ša IGI GÍR ša a-šùr ša ší-bu-tí-ni,"Sealed by Lā-qēp son of Illil-bāni, by Akuza son of Šu-Anum. The tablet from the Gate of the God from before Aššurs dagger, with our testimony.",train_dataset_w_most_sources.csv
+KIŠIB lá-qé-pì-im DUMU i-zi-za-am-DINGIR a-na a-wa-tim a-ni-a-tim kà-ru-um kà-ni-iš i-dí-na-ni-ma IGI GÍR ša a-šùr <gap>,"Seal of La-qēpum, son of Izzizam-ilī. For these words the Kanesh colony made me available and before Aššur's dagger I gave my testimony.",train.csv
+KIŠIB lá-qé-pì-im DUMU i-zi-za-am-DINGIR a-na a-wa-tim a-ni-a-tim kà-ru-um kà-ni-iš i-dí-na-ni-ma IGI GÍR ša a-šùr <gap>,"Seal of La-qēpum, son of Izzizam-ilī. For these words the Kanesh colony made me available and before Aššurs dagger I gave my testimony.",train_dataset_w_most_sources.csv
+KIŠIB na-bi-sú-in ù ku-zi-zi-a a-na i-dí-a-šur 38 ma-na,Seal of Nab-Suen and Kuziziya; to Iddin-Aššur: 40 less 2 minas ...,phucthaiv02_oa_sentences.csv
+KIŠIB na-bi-sú-in ù ku-zi-zi-a a-na i-dí-a-šur 38 ma-na,Seal of Nab-Suen and Kuziziya; to Iddin-Aššur: 40 less 2 minas <gap>,train.csv
+KIŠIB na-bi-sú-in ù ku-zi-zi-a a-na i-dí-a-šur 38 ma-na,Seal of Nab-Suen and Kuziziya; to Iddin-Aššur: 40 less 2 minas <gap>,train_dataset_w_most_sources.csv
+KIŠIB pá-ru-ur-tim a-na i-dí-a-bi-im DUMU na-ar-me-a,Seal of Parrurtum; to Iddin-abum son of Narmea.,train.csv
+KIŠIB pá-ru-ur-tim a-na i-dí-a-bi-im DUMU na-ar-me-a,Seal of Parrurtum; to Iddin-abum son of Narmea.,train_dataset_w_most_sources.csv
+KIŠIB sú-en-na-da DUMU e-nam-a-šùr a-na a-wa-tim a-ni-a-tim kà-ru-um kà-ni-iš i-dí-ni-ma IGI GÍR ša a-šùr ší-bu-tí a-dí-in šu-ku-bu-um DUMU a-šur-i-dí ù i-dí-IŠTAR DUMU a-šur-na-da tap-pá-ú-a,Seal of Suen-nādā son of Ennam-Aššur. The Kanesh colony gave me for these proceedings and I gave my testimony before Aššur's dagger. Šu-Kūbum son of Aššur-idī and Iddin-Ištar son of Aššur-nādā were my (absent) partners.,train.csv
+KIŠIB sú-en-na-da DUMU e-nam-a-šùr a-na a-wa-tim a-ni-a-tim kà-ru-um kà-ni-iš i-dí-ni-ma IGI GÍR ša a-šùr ší-bu-tí a-dí-in šu-ku-bu-um DUMU a-šur-i-dí ù i-dí-IŠTAR DUMU a-šur-na-da tap-pá-ú-a,Seal of Suen-nādā son of Ennam-Aššur. The Kanesh colony gave me for these proceedings and I gave my testimony before Aššurs dagger. Šu-Kūbum son of Aššur-idī and Iddin-Ištar son of Aššur-nādā were my absent partners.,train_dataset_w_most_sources.csv
+KIŠIB sú-kà-lí-a DUMU a-mur-a-šùr KIŠIB a-ku-za DUMU šu-a-nim KIŠIB ú-ra-a DUMU ma-na-na a-na a-wa-tim a-ni-a-tim kà-ru-um kà-ni-iš i-dí-ni-a-tí-ma ṭup-pá-am ší-bu-tí-ni IGI GÍR ša a-šùr ni-dí-in,"Seal of Sukkalliya son of Amur-Aššur, seal of Akuza son of Šu-Anum, seal of Uraya son of Manana. The Kanesh colony gave us for these proceedings and we gave the tablet with our testimony before Aššur's dagger.",train.csv
+KIŠIB sú-kà-lí-a DUMU a-mur-a-šùr KIŠIB a-ku-za DUMU šu-a-nim KIŠIB ú-ra-a DUMU ma-na-na a-na a-wa-tim a-ni-a-tim kà-ru-um kà-ni-iš i-dí-ni-a-tí-ma ṭup-pá-am ší-bu-tí-ni IGI GÍR ša a-šùr ni-dí-in,"Seal of Sukkalliya son of Amur-Aššur, seal of Akuza son of Šu-Anum, seal of Uraya son of Manana. The Kanesh colony gave us for these proceedings and we gave the tablet with our testimony before Aššurs dagger.",train_dataset_w_most_sources.csv
+KIŠIB tù-ra-mì-ili₅ a-na en-um-a-šùr ù šu-ku-bi-im DUMU en-na-ma-nim,Seal of Tūram-ilī; to Ennam-Aššur and Šu-Kūbum son of Ennam-Anum.,phucthaiv02_oa_sentences.csv
+KIŠIB tù-ra-mì-ili₅ a-na en-um-a-šùr ù šu-ku-bi-im DUMU en-na-ma-nim,Sealed by Tūram-ilī; to Ennam-Aššur and Šu-Kūbum son of Ennam-Anum.,train.csv
+KIŠIB tù-ra-mì-li a-na en-um-a-šùr DUMU ša-lim-a-šùr ú šu-ku-bi-im DUMU e-na-ma-nim,Sealed by Tūram-ilī; to Ennam-Aššur son of Šalim-ahum and Šu-Kūbum son of Ennam-Anum,train.csv
+KIŠIB tù-ra-mì-li a-na en-um-a-šùr DUMU ša-lim-a-šùr ú šu-ku-bi-im DUMU e-na-ma-nim,Sealed by Tūram-ilī; to Ennam-Aššur son of Šalim-ahum and Šu-Kūbum son of Ennam-Anum,train_dataset_w_most_sources.csv
+KIŠIB ú-ra-a DUMU ma-na-na,"Seal of Uraya, son of Manana.",phucthaiv02_oa_sentences.csv
+KIŠIB ú-ra-a DUMU ma-na-na,Seal of Urāya son of Manana.,published_texts_sentences.csv
+KIŠIB ú-ra-a DUMU ma-na-na KIŠIB ì-lí-dan DUMU i-dí-a-šur KIŠIB ma-nu-um-ba-lúm-a-šur DUMU ib-ki-im a-na a-wa-tim a-ni-a-tim kà-ru-um kà-né-eš i-dí-ni-a-tí-ma IGI GÍR ša a-šur ší-bu-tí-ni ni-dí-in,"Sealed by Uraya son of Manana, by Ilī-dan son of Iddin-Aššur, by Mannum-balum-Aššur son of Ibkum. The Kanesh colony gave us for these proceedings and we gave our testimony before Aššur's dagger.",train.csv
+KIŠIB ú-ra-a DUMU ma-na-na KIŠIB ì-lí-dan DUMU i-dí-a-šur KIŠIB ma-nu-um-ba-lúm-a-šur DUMU ib-ki-im a-na a-wa-tim a-ni-a-tim kà-ru-um kà-né-eš i-dí-ni-a-tí-ma IGI GÍR ša a-šur ší-bu-tí-ni ni-dí-in,"Sealed by Uraya son of Manana, by Ilī-dan son of Iddin-Aššur, by Mannum-balum-Aššur son of Ibkum. The Kanesh colony gave us for these proceedings and we gave our testimony before Aššurs dagger.",train_dataset_w_most_sources.csv
+KIŠIB ú-ra-a-a DUMU ma-na-na KIŠIB {d}MAR.TU-ba-ni DUMU ma-na-na a-na a-wa-tim a-ni-a-tim kà-ru-um kà-ni-iš-ki i-dí-ni-a-tí-ma IGI GÍR ša a-šùr ší-bu-tí-ni ni-dí-in bu-zu-ta-a ša-li-iš-ni,"Seal of Uraya son of Manana, seal of Amurrum-bāni son of Manana. The Kanesh colony gave us for these proceedings and we gave our testimony before Aššur's dagger. Buzutaya was our third man.",train.csv
+KIŠIB ú-ra-a-a DUMU ma-na-na KIŠIB {d}MAR.TU-ba-ni DUMU ma-na-na a-na a-wa-tim a-ni-a-tim kà-ru-um kà-ni-iš-ki i-dí-ni-a-tí-ma IGI GÍR ša a-šùr ší-bu-tí-ni ni-dí-in bu-zu-ta-a ša-li-iš-ni,"Seal of Uraya son of Manana, seal of Amurrum-bāni son of Manana. The Kanesh colony gave us for these proceedings and we gave our testimony before Aššurs dagger. Buzutaya was our third man.",train_dataset_w_most_sources.csv
+KIŠIB ú-zu-a KIŠIB i-dí-a-bi-im KIŠIB sú-kà-lim DUMU i-dí-sú-in 11.5 ma-na URUDU ší-ku-um i-ṣé-er sú-kà-lim lu-zi i-šu ITU.KAM áb-ša-ra-ni li-mu-um ku-bi-a ki-ma a-wa-at kà-ri-im ṣí-ib-tám ú-ṣa-áb,"Seal of Uzua, seal of Iddin-abum, seal of Sukkallum son of Iddin-Suen. Sukkallum owes 11.5 minas of -copper to Luzi. Month Ab-šarrāni, eponymy Kūbiya. He must add interest in accordance with the rule of the colony.",train.csv
+KIŠIB ú-zu-a KIŠIB i-dí-a-bi-im KIŠIB sú-kà-lim DUMU i-dí-sú-in 11.5 ma-na URUDU ší-ku-um i-ṣé-er sú-kà-lim lu-zi i-šu ITU.KAM áb-ša-ra-ni li-mu-um ku-bi-a ki-ma a-wa-at kà-ri-im ṣí-ib-tám ú-ṣa-áb,"Seal of Uzua, seal of Iddin-abum, seal of Sukkallum son of Iddin-Suen. Sukkallum owes 11.5 minas of -copper to Luzi. Month Ab-šarrāni, eponymy Kūbiya. He must add interest in accordance with the rule of the colony.",train_dataset_w_most_sources.csv
+KIŠIB ša-lim-a-šùr DUMU i-sú-rik₁₃ a-na en-um-a-šùr DUMU ú-zu-a ḫa-na-a i-dí-ku-bi₄-im a-šur-i-mì-tí DUMU du-dí-ki en-um-a-šùr ù a-lá-ḫi-im,"Sealed by Šalim-Aššur son of Issu-arik; to Ennam-Aššur son of Uzuwa, hannaya, Iddin-Kūbum, Aššur-imittī son of Dudiki, Ennam-Aššur and Ali-ahum.",phucthaiv02_oa_sentences.csv
+KIŠIB ša-lim-a-šùr DUMU i-sú-rik₁₃ a-na en-um-a-šùr DUMU ú-zu-a ḫa-na-a i-dí-ku-bi₄-im a-šur-i-mì-tí DUMU du-dí-ki en-um-a-šùr ù a-lá-ḫi-im,"Sealed by Šalim-Aššur son of Issu-arik; to Ennam-Aššur son of Uzuwa, hannaya, Iddin-Kūbum, Aššur-imittī son of Dudiki, Ennam-Aššur and Ali-ahum.",train.csv
+KIŠIB šu-IŠTAR DUMU šu-a-a a-na a-wa-tim a-ni-a-tim kà-ru-um kà-ni-iš i-dí-ni-ma IGI GÍR ša a-šur ší-bu-tí a-dí-in DINGIR-ba-ni DUMU ú-zu-a tap-pá-i,Seal of Šu-Ištar son of Šuaya. The Kanesh colony gave me for these proceedings and I gave my testimony before Aššur's dagger. Ilī-bāni son of Uzuwa was my absent partner.,train.csv
+KIŠIB šu-IŠTAR DUMU šu-a-a a-na a-wa-tim a-ni-a-tim kà-ru-um kà-ni-iš i-dí-ni-ma IGI GÍR ša a-šur ší-bu-tí a-dí-in DINGIR-ba-ni DUMU ú-zu-a tap-pá-i,Seal of Šu-Ištar son of Šuaya. The Kanesh colony gave me for these proceedings and I gave my testimony before Aššurs dagger. Ilī-bāni son of Uzuwa was my absent partner.,train_dataset_w_most_sources.csv
+KIŠIB šu-ta-mu-zi e-la-a en-um-a-šùr DUMU e-la-ma ù lá-ma-sí a-na en-um-a-šùr,"Sealed by Šu-Tammuzī, Elaya, Ennam-Aššur son of Elamma and Lamassī; to Ennam-Aššur.",phucthaiv02_oa_sentences.csv
+KIŠIB šu-ta-mu-zi e-la-a en-um-a-šùr DUMU e-la-ma ù lá-ma-sí a-na en-um-a-šùr,"Sealed by Šu-Tammuzī, Elaya, Ennam-Aššur son of Elamma and Lamassī; to Ennam-Aššur.",train.csv
+KIŠIB šu-ta-mu-zi e-la-a en-um-a-šùr DUMU e-la-ma ù lá-ma-sí a-na en-um-a-šùr,"Sealed by Šu-Tammuzī, Elaya, Ennam-Aššur son of Elamma and Lamassī; to Ennam-Aššur.",train_dataset_w_most_sources.csv
+KIŠIB šál-ma-a-šur a-na i-dí-a-bi-im ù en-na-nim <gap>,Sealed by Šalim-Aššur; to Iddin-abum and Ennānum <gap>,train.csv
+KIŠIB šál-ma-a-šur a-na i-dí-a-bi-im ù en-na-nim <gap>,Sealed by Šalim-Aššur; to Iddin-abum and Ennānum <gap>,train_dataset_w_most_sources.csv
+KÙ.BABBAR i qá-qá-ad šál-mì-šu-nu ra-ki-is,They are jointly liable for the silver.,phucthaiv02_oa_sentences.csv
+KÙ.BABBAR i qá-qá-ad šál-mì-šu-nu ra-ki-is,The silver is bound to whomever is financially solvent.,published_texts_sentences.csv
+KÙ.BABBAR i qá-qá-ad šál-mì-šu-nu ra-ki-is,The silver is bound to whichever person is solvent.,published_texts_sentences.csv
+KÙ.BABBAR i qá-qá-ad šál-mì-šu-nu ra-ki-is,They are jointly responsible for the silver.,published_texts_sentences.csv
+KÙ.BABBAR i qá-qá-ad šál-mì-šu-nu ra-ki-is,(The obligation to pay) the silver is bound to whichever one is financially solvent.,published_texts_sentences.csv
+KÙ.BABBAR i qá-qá-ad šál-mì-šu-nu ra-ki-is,The silver is bound to whomever is financially solvent.,published_texts_sentences.csv
+KÙ.BABBAR i qá-qá-ad šál-mì-šu-nu ú ke-ni-šu-nu ra-ki-is,The silver is bound on [the one of them] who is solvent and reliable.,phucthaiv02_oa_sentences.csv
+KÙ.BABBAR i qá-qá-ad šál-mì-šu-nu ú ke-ni-šu-nu ra-ki-is,Who of them is financially sound and available is liable for the silver.,phucthaiv02_oa_sentences.csv
+KÙ.BABBAR i qá-qá-ad šál-mì-šu-nu ú ke-ni-šu-nu ra-ki-is,The silver is bound to whomever is financially solvent and legally responsible.,published_texts_sentences.csv
+KÙ.BABBAR i qá-qá-ad šál-mì-šu-nu ú ke-ni-šu-nu ra-ki-is,(The obligation to pay back) the silver is bound to whichever one is financially solvent and legally responsible.,published_texts_sentences.csv
+KÙ.BABBAR i qá-qá-ad šál-mì-šu-nu ú ke-ni-šu-nu ra-ki-is,(The responsibility to pay) the silver is bound to whoever is solvent and financially responsible.,published_texts_sentences.csv
+KÙ.BABBAR i-na qá-qá-ad šál-mì-šu-nu ra-ki-is,For the silver they are jointly liable.,phucthaiv02_oa_sentences.csv
+KÙ.BABBAR i-na qá-qá-ad šál-mì-šu-nu ra-ki-is,They are jointly responsible for the silver.,phucthaiv02_oa_sentences.csv
+KÙ.BABBAR i-na qá-qá-ad šál-mì-šu-nu ra-ki-is,They are jointly responsible for the silver.,published_texts_sentences.csv
+KÙ.BABBAR i-na qá-qá-ad šál-mì-šu-nu ra-ki-is,(The silver) is bound to whichever amont them is solvent.,published_texts_sentences.csv
+KÙ.BABBAR ša-áš-qí-il₅-šu,Make him pay the silver.,phucthaiv02_oa_sentences.csv
+KÙ.BABBAR ša-áš-qí-il₅-šu,Make him pay the silver.,published_texts_sentences.csv
+KÙ.BABBAR-áp-kà gám-ra-kum,Your silver has been spent for you.,phucthaiv02_oa_sentences.csv
+KÙ.BABBAR-áp-kà gám-ra-kum,Your silver is exhausted.,published_texts_sentences.csv
+KÙ.BABBAR-áp-kà gám-ra-kum,Your silver is exhausted.,published_texts_sentences.csv
+TÚG.HI-tù i-na a-lá-ni a-šar ib-ší-ú-ni a-lik-ma TÚG.HI.A ú-šé-ṣí-a-ma,"I then went to the villages where the textiles were stashed, I took the textiles out,",akkadian-translation.csv
+TÚG.HI-tù i-na a-lá-ni a-šar ib-ší-ú-ni a-lik-ma TÚG.HI.A ú-šé-ṣí-a-ma,"I then went to the villages where the textiles were stashed, I took the textiles out",akkadian-translation.csv
+TÚG.HI-tù i-na a-lá-ni a-šar ib-ší-ú-ni a-lik-ma TÚG.HI.A ú-šé-ṣí-a-ma,"I went to where the textiles were, in the villages, and I got the textiles out.",phucthaiv02_oa_sentences.csv
+a-ba-ú-a be-lu-ú-a a-tù-nu,Please my fathers and lords.,phucthaiv02_oa_sentences.csv
+a-ba-ú-a be-lu-ú-a a-tù-nu,"You are my fathers, you are my lords.",published_texts_sentences.csv
+a-bi a-ta,"You are my father,",akkadian-translation.csv
+a-bi a-ta,You are my father,akkadian-translation.csv
+a-bi a-ta,You (are) my father.,akkadian-translation.csv
+a-bi a-ta,You are my father—,akkadian-translation.csv
+a-bi a-ta,"My dear brother,",phucthaiv02_oa_sentences.csv
+a-bi a-ta be-lí a-ta,My dear father and lord.,akkadian-translation.csv
+a-bi a-ta be-lí a-ta,"My dear father and lord,",phucthaiv02_oa_sentences.csv
+a-bi a-ta bé-li a-ta,"My father, my lord you are",akkadian-translation.csv
+a-bi a-ta bé-li a-ta,"You are my father, you are my lord.",phucthaiv02_oa_sentences.csv
+a-bi-i a-ta be-lí a-ta,"My father, my lord,",akkadian-translation.csv
+a-bi-i a-ta be-lí a-ta,"My father, my lord, as for",akkadian-translation.csv
+a-bi-i a-ta be-lí a-ta,"My father, my lord,",phucthaiv02_oa_sentences.csv
+a-hi a-ta be-lí a-ta,My dear father and lord,akkadian-translation.csv
+a-hi a-ta be-lí a-ta,"Please my brother, my lord.",phucthaiv02_oa_sentences.csv
+a-hi a-ta eb-ri a-ta,My dear brother and friend,akkadian-translation.csv
+a-hi a-ta eb-ri a-ta,"My dear brother and friend,",akkadian-translation.csv
+a-hi a-ta eb-ri a-ta,"My dear brother and friend,",phucthaiv02_oa_sentences.csv
+a-hu-a a-tù-nu,Be brothers.,akkadian-translation.csv
+a-hu-a a-tù-nu,Act as brothers.,akkadian-translation.csv
+a-hu-a a-tù-nu,You are my brothers,akkadian-translation.csv
+a-hu-a a-tù-nu,My dear brothers.,phucthaiv02_oa_sentences.csv
+a-hu-a a-tù-nu,"My dear brothers,",phucthaiv02_oa_sentences.csv
+a-ma-kam a-na a-wi-tí-a i-zi-iz-ma lu ga-am-lá-ku,"Over there,stand up [for my case and let me enjoy (your) favor!]",akkadian-translation.csv
+a-ma-kam a-na a-wi-tí-a i-zi-iz-ma lu ga-am-lá-ku,"Over there, stand up for my case and let me enjoy (your) favor!",akkadian-translation.csv
+a-ma-kam a-na a-wi-tí-a i-zi-iz-ma lu ga-am-lá-ku,"Over there, stand up for my case and let me enjoy your favor!'",phucthaiv02_oa_sentences.csv
+a-ma-kam lu-ba-li-ṭá-kum,He should credit it to you there.,phucthaiv02_oa_sentences.csv
+a-ma-kam lu-ba-li-ṭá-kum,"There, let him pay you in full.",published_texts_sentences.csv
+a-ma-kam ṣa-ba-sú-ma,Seize him there!,akkadian-translation.csv
+a-ma-kam ṣa-ba-sú-ma,Seize him there.,phucthaiv02_oa_sentences.csv
+a-na 46 ḫa-am-ša-tim i-ša-qal,He will pay in 46 ḫamuštum weeks.,akkadian-translation.csv
+a-na 46 ḫa-am-ša-tim i-ša-qal,He will pay in 46 weeks.,phucthaiv02_oa_sentences.csv
+a-na DAM.GÀR-ri-im ù e-lá-lí KIŠIB in-ba-a-šùr mì-šu ša ma-tí-ma té-er-ta-kà lá i-lá-kam,To the merchant and Elāli; sealed by Inib-Aššur. Why doesn't any message ever come from you?,train.csv
+a-na DAM.GÀR-ri-im ù e-lá-lí KIŠIB in-ba-a-šùr mì-šu ša ma-tí-ma té-er-ta-kà lá i-lá-kam,To the merchant and Elāli; sealed by Inib-Aššur. Why doesnt any message ever come from you?,train_dataset_w_most_sources.csv
+a-na ITU.2.KAM i-ša-qal,He shall pay in two months.,akkadian-translation.csv
+a-na ITU.2.KAM i-ša-qal,He will pay in two months.,published_texts_sentences.csv
+a-na ITU.4.KAM i-ša-qal,He shall pay within four months.,akkadian-translation.csv
+a-na ITU.4.KAM i-ša-qal,He will pay in four months.,published_texts_sentences.csv
+a-na KÙ.BABBAR-pì-šu ša-lu-ḫi-im iš-tap-ra-am,He has written to me about the shipping of his silver.,akkadian-translation.csv
+a-na KÙ.BABBAR-pì-šu ša-lu-ḫi-im iš-tap-ra-am,He has sent word to me regarding the sending of his silver.,akkadian-translation.csv
+a-na KÙ.BABBAR-pì-šu ša-lu-ḫi-im iš-tap-ra-am,He had sent word to me to withdraw his silver.,published_texts_sentences.csv
+a-na a-lá-hi-im ú dam-qá-a KIŠIB ša-ta-na,To Ali-ahum and Damqaya; seal of Šāt-Anna.,phucthaiv02_oa_sentences.csv
+a-na a-lá-hi-im ú dam-qá-a KIŠIB ša-ta-na,To Ali-ahum and Damqaya; seal of Šāt-Anna.,train_dataset_w_most_sources.csv
+a-na a-lá-ḫi-im DUMU šál-ma-a-šur KIŠIB MAN-a-šur DUMU a-šur-dan,To Ali-ahum son of Šalim-Aššur; seal of Puzur-Aššur son of Aššur-dan.,phucthaiv02_oa_sentences.csv
+a-na a-lá-ḫi-im DUMU šál-ma-a-šur KIŠIB MAN-a-šur DUMU a-šur-dan,To Ali-ahum son of Šalim-Aššur; seal of Puzur-Aššur son of Aššur-dan.,train.csv
+a-na a-lá-ḫi-im ú a-šùr-ma-lik KIŠIB i-dí-a-bi-im,To Ali-ahum and Aššur-malik; Seal of Iddin-abum.,phucthaiv02_oa_sentences.csv
+a-na a-lá-ḫi-im ú a-šùr-ma-lik KIŠIB i-dí-a-bi-im,To Ali-ahum and Aššur-malik; Seal of Iddin-abum.,train.csv
+a-na a-wa-tim a-ni-a-tim kà-ru-um kà-ni-iš i-dí-ni-a-tí-ma ší-bu-tí-ni IGI GÍR ša a-šùr ni-dí-in,The Kanesh colony has given us for these proceedings and we gave our testimony before the dagger of Aššur.,phucthaiv02_oa_sentences.csv
+a-na a-wa-tim a-ni-a-tim kà-ru-um kà-ni-iš i-dí-ni-a-tí-ma ší-bu-tí-ni IGI GÍR ša a-šùr ni-dí-in,"For this matter, the colony at Kanesh gave us permission, and we gave our witnesses before the dagger of Aššur.",published_texts_sentences.csv
+a-na a-wa-tim a-ni-a-tim kà-ru-um kà-ni-iš i-dí-ni-ma IGI GÍR ša a-šùr ší-bu-tí a-dí-in IGI šu-IŠTAR DUMU šu-a-a DINGIR-ba-ni DUMU ú-zu-a tap-pá-i,The Kanesh colony gave me for these proceedings and I gave my testimony before Aššur's dagger.,train.csv
+a-na a-wa-tim a-ni-a-tim kà-ru-um kà-ni-iš i-dí-ni-ma IGI GÍR ša a-šùr ší-bu-tí a-dí-in IGI šu-IŠTAR DUMU šu-a-a DINGIR-ba-ni DUMU ú-zu-a tap-pá-i,The Kanesh colony gave me for these proceedings and I gave my testimony before Aššurs dagger.,train_dataset_w_most_sources.csv
+a-na a-šur-ni-im-ri ù a-lá-ḫi-im DUMU šál-ma-a-šur KIŠIB šu-zu-zu DUMU a-šur-SIPA,To Aššur-nimrī and Ali-ahum son of Šalim-Aššur; Seal of Šu-Zuzu son of Aššur-rē'ī.,phucthaiv02_oa_sentences.csv
+a-na a-šur-ni-im-ri ù a-lá-ḫi-im DUMU šál-ma-a-šur KIŠIB šu-zu-zu DUMU a-šur-SIPA,To Aššur-nimrī and Ali-ahum son of Šalim-Aššur; Seal of Šu-Zuzu son of Aššur-rē'ī.,train.csv
+a-na e-lá-ma qí-bi-ma um-ma <gap> ù a-šur-ma-lik-ma 4 GÚ AN.NA ku-nu-ki ša a-lim{ki} ú <gap> ku-ta-ni ILLAT la-qé-pí-im ub-lam ŠÀ.BA 17.5 ma-na AN.NA lá ku-nu-ki 5 ku-ta-nu i-na É.GAL-lim lá-qé-ú ki-ma té-er-ta-kà lá-šu-ni i-pì-kà a-na <gap> um-ma a-ta-ma AN.NA i-ṣé-er DAM.GÀR-ri-im li-dí-šu a <gap>,"To Elamma, say, thus <gap> and Aššur-mālik?: 4 talents of tin with seals applied in the City and <gap> -textiles? Lā-qēpum's <gap>. Thereof: 17.5 minas of tin without () 5 -textiles were taken in the palace. a written instruction on the basis of what you said to <gap>: ""Let him entrust the tin to an agent <gap>""""",train.csv
+a-na e-lá-ma qí-bi-ma um-ma <gap> ù a-šur-ma-lik-ma 4 GÚ AN.NA ku-nu-ki ša a-lim{ki} ú <gap> ku-ta-ni ILLAT la-qé-pí-im ub-lam ŠÀ.BA 17.5 ma-na AN.NA lá ku-nu-ki 5 ku-ta-nu i-na É.GAL-lim lá-qé-ú ki-ma té-er-ta-kà lá-šu-ni i-pì-kà a-na <gap> um-ma a-ta-ma AN.NA i-ṣé-er DAM.GÀR-ri-im li-dí-šu a <gap>,"To Elamma, say, thus <gap> and Aššur-mālik? : 4 talents of tin with seals applied in the City and x kutānu-textiles? Lā-qēpums <gap>. Thereof: 17.5 minas of tin without 5 kutānu-textiles were taken in the palace. a written instruction on the basis of what you said to <gap> : Let him entrust the tin to an agent <gap>",train_dataset_w_most_sources.csv
+a-na e-na-nim ù a-lá-ḫi-im KIŠIB PUZUR₄-a-šur DUMU a-šur-dan,To Ennānum and Ali-ahum; seal of Puzur Aššur son of Aššur-dan.,phucthaiv02_oa_sentences.csv
+a-na e-na-nim ù a-lá-ḫi-im KIŠIB PUZUR₄-a-šur DUMU a-šur-dan,To Ennānum and Ali-ahum; seal of Puzur Aššur son of Aššur-dan.,train.csv
+a-na en-nam-a-šur i-ku-nim DUMU e-lá-lí ù am-ur-IŠTAR DUMU <gap> KIŠIB a-šùr-ma-lik DUMU i-ku-pì-a,"To Ennam-Aššur, Ikūnum son of Elāli and Amur-Ištar son of <gap>; sealed by Aššur-malik son of Ikūn-pīya.",train.csv
+a-na en-nam-a-šur i-ku-nim DUMU e-lá-lí ù am-ur-IŠTAR DUMU <gap> KIŠIB a-šùr-ma-lik DUMU i-ku-pì-a,"To Ennam-Aššur, Ikūnum son of Elāli and Amur-Ištar son of <gap> ; sealed by Aššur-malik son of Ikūn-pīya.",train_dataset_w_most_sources.csv
+a-na en-nu-um-a-šur KIŠIB a-mur-IŠTAR 3 ma-na URUDU ú 2 GÍN KÙ.BABBAR a-<gap>,To Ennam-Aššur; seal of Amur-Ištar. 3 minas of copper and 2 shekels of silver <gap>,train.csv
+a-na en-nu-um-a-šur KIŠIB a-mur-IŠTAR 3 ma-na URUDU ú 2 GÍN KÙ.BABBAR a-<gap>,To Ennam-Aššur; seal of Amur-Ištar. 3 minas of copper and 2 shekels of silver <gap>,train_dataset_w_most_sources.csv
+a-na en-um-a-šur DUMU šál-ma-a-šur KIŠIB a-na-a-na,To Ennam-Aššur son of Šalim-Aššur; sealed by Anna-anna.,train.csv
+a-na en-um-a-šur DUMU šál-ma-a-šur KIŠIB a-na-a-na,To Ennam-Aššur son of Šalim-Aššur; sealed by Anna-anna.,train_dataset_w_most_sources.csv
+a-na en-um-a-šur KIŠIB <gap>-na <gap>,To of Ennam-Aššur <gap> seal of <gap>,train.csv
+a-na en-um-a-šur KIŠIB <gap>-na <gap>,To of Ennam-Aššur <gap> seal of <gap>,train_dataset_w_most_sources.csv
+a-na en-um-a-šùr qí-bi-ma,To Ennam-Aššur:,phucthaiv02_oa_sentences.csv
+a-na en-um-a-šùr qí-bi-ma,To Ennam-Aššur:,published_texts_sentences.csv
+a-na ku-da-tim KIŠIB na-áb-sú-in ù en-um-a-šùr,To Kudātum; seal of Nāb-Suen and Ennam-Aššur.,phucthaiv02_oa_sentences.csv
+a-na ku-da-tim KIŠIB na-áb-sú-in ù en-um-a-šùr,To Kudātum; seal of Nāb-Suen and Ennam-Aššur.,train.csv
+a-na ku-da-tim KIŠIB na-áb-sú-in ù en-um-a-šùr,To Kudātum; seal of Nāb-Suen and Ennam-Aššur.,train_dataset_w_most_sources.csv
+a-na na-áb-sú-en en-um-a-šur ù li-bur-be-lí DUMU ás-qú-di-a KIŠIB ÌR-dim DUMU ku-zi-a,"To Nabi-Suen, Ennam-Aššur and Libur-bēli, son of Asqudiya; seal of Warad-Adim, son of Kuzia.",phucthaiv02_oa_sentences.csv
+a-na na-áb-sú-en en-um-a-šur ù li-bur-be-lí DUMU ás-qú-di-a KIŠIB ÌR-dim DUMU ku-zi-a,"To Nabi-Suen,",train.csv
+a-na na-áb-sú-en en-um-a-šur ù li-bur-be-lí DUMU ás-qú-di-a KIŠIB ÌR-dim DUMU ku-zi-a,"To Nabi-Suen,",train_dataset_w_most_sources.csv
+a-na sú-ú-a-a ù en-um-a-šur KI a-šur-i-dí,To Sūaya and Ennam-Aššur. Seal of Aššur-idī.,train.csv
+a-na sú-ú-a-a ù en-um-a-šur KI a-šur-i-dí,To Sūaya and Ennam-Aššur. Seal of Aššur-idī.,train_dataset_w_most_sources.csv
+a-na ša ki-ma i-a-tí qí-bi-ma,Tell my representatives:,akkadian-translation.csv
+a-na ša ki-ma i-a-tí qí-bi-ma,Speak to my representative!,akkadian-translation.csv
+a-na ša ki-ma i-a-tí qí-bi-ma,Say to my representative,akkadian-translation.csv
+a-na ša ki-ma i-a-tí qí-bi-ma,Say to my representatives:,phucthaiv02_oa_sentences.csv
+a-na ša ki-ma i-a-tí qí-bi-ma,"To my representatives, say:",phucthaiv02_oa_sentences.csv
+a-na ša ki-ma i-a-tí qí-bi-ma,To my representatives:,phucthaiv02_oa_sentences.csv
+a-na ša ki-ma i-a-tí ù bé-lá-nim KIŠIB en-um-a-šur,To my representatives and Bēlānum; seal of Ennam-Aššur.,phucthaiv02_oa_sentences.csv
+a-na ša ki-ma i-a-tí ù bé-lá-nim KIŠIB en-um-a-šur,To my representatives and Bēlānum; seal of Ennam-Aššur.,train.csv
+a-na ša ki-ma i-a-tí ù bé-lá-nim KIŠIB en-um-a-šur,To my representatives and Bēlānum; seal of Ennam-Aššur.,train_dataset_w_most_sources.csv
+a-na ša-lim-ma a-<gap> qí-bi-ma um-ma bé-lá-tum-ma mì-šu ša ta-ta-na-ri i-na a-lim a-šur ba-ri-a-tim ù ú-tù-ki <gap> DINGIR-ša aq-ta a-na a-lim{ki} <gap> e-lá a-bi-kà <gap> a-bu-ni i-<gap> ù at-<gap> a-ta a-ma-kam <gap>-na,"To Šalimma <gap> from Bēlātum: Why is it that you keep <gap>? <gap> Aššur, the female diviners and the spirits <gap>I to her god <gap> to the City apart from your father <gap> our father <gap> you there <gap>",train.csv
+a-na ša-lim-ma a-<gap> qí-bi-ma um-ma bé-lá-tum-ma mì-šu ša ta-ta-na-ri i-na a-lim a-šur ba-ri-a-tim ù ú-tù-ki <gap> DINGIR-ša aq-ta a-na a-lim{ki} <gap> e-lá a-bi-kà <gap> a-bu-ni i-<gap> ù at-<gap> a-ta a-ma-kam <gap>-na,"To Šalimma <gap> from Bēlātum: Why is it that you keep <gap> ? <gap> Aššur, the female diviners and the spirits <gap> I to her god <gap> to the City apart from your father <gap> our father <gap> you there <gap>",train_dataset_w_most_sources.csv
+a-na ša-na-at i-ša-qal,He shall pay within one year.,akkadian-translation.csv
+a-na ša-na-at i-ša-qal,He will pay within one year.,akkadian-translation.csv
+a-na ša-na-at i-ša-qal,He shall pay in one year.,akkadian-translation.csv
+a-na ša-na-at i-ša-qal,He shall pay within one year.,phucthaiv02_oa_sentences.csv
+a-na ša-na-at i-ša-qal,He must pay in one year.,phucthaiv02_oa_sentences.csv
+a-na ša-zu-a ša-lim-ma ú bi-ta-a <gap>,"To Šazua, Šalimma and Bitaya <gap>",train.csv
+a-na ša-zu-a ša-lim-ma ú bi-ta-a <gap>,"To Šazua, Šalimma and Bitaya <gap>",train_dataset_w_most_sources.csv
+a-na šu-{d}EN.LÍL ù a-zu-ú KIŠIB a-mur-IŠTAR,To Šu-Illil and Azu; sealed by Amur-Ištar.,train.csv
+a-na šu-{d}EN.LÍL ù a-zu-ú KIŠIB a-mur-IŠTAR,To Šu-Illil and Azu; sealed by Amur-Ištar.,train_dataset_w_most_sources.csv
+a-na šál-ma-a-šur KIŠIB ma-ma-hi-ir,To Šalim-Aššur; sealed by Man-mahir.,phucthaiv02_oa_sentences.csv
+a-na šál-ma-a-šur KIŠIB ma-ma-hi-ir,To Šalim-Aššur; sealed by Man-mahir.,train_dataset_w_most_sources.csv
+a-na-kam KÙ.BABBAR ša-bu-a-ku,I have been paid the silver here.,phucthaiv02_oa_sentences.csv
+a-na-kam KÙ.BABBAR ša-bu-a-ku,I have been paid the silver in full here.,published_texts_sentences.csv
+a-pu-tum,Please!,akkadian-translation.csv
+a-pu-tum,please,akkadian-translation.csv
+a-pu-tum,Urgent!,phucthaiv02_oa_sentences.csv
+a-pu-tum tí-ib-a-ni-ma a-tal-kà-nim,"Urgent, set out and come.",akkadian-translation.csv
+a-pu-tum tí-ib-a-ni-ma a-tal-kà-nim,Urgent: set out and come!,phucthaiv02_oa_sentences.csv
+a-ta ma-ga-ra-am ta-le-e,It is up to you to comply,akkadian-translation.csv
+a-ta ma-ga-ra-am ta-le-e,It is up to you to comply.,phucthaiv02_oa_sentences.csv
+a-ta ma-lá-kà,Make up your mind.,phucthaiv02_oa_sentences.csv
+a-ta ma-lá-kà,"As for you, make up your mind!",published_texts_sentences.csv
+a-ta mì-ma-ša-ma lá tù-uš-té-bi4-lam,but you have not sent anything.,akkadian-translation.csv
+a-ta mì-ma-ša-ma lá tù-uš-té-bi4-lam,But you have not sent me anything!,phucthaiv02_oa_sentences.csv
+a-ta-lá-ak ú-zu-ni pé-té,<gap> I shall go <gap> Inform us.,train.csv
+a-ta-lá-ak ú-zu-ni pé-té,<gap> I shall go <gap> Inform us.,train_dataset_w_most_sources.csv
+a-tal-kam,Come here.,akkadian-translation.csv
+a-tal-kam,Come!,published_texts_sentences.csv
+a-tí ma-tí-ma tí-ir-tí-ki lá i-li-kam-ma li-ba-am ú-lá ta-dí-ni-im,"But as for you, you never sent me word and never encouraged me.",akkadian-translation.csv
+a-tí ma-tí-ma tí-ir-tí-ki lá i-li-kam-ma li-ba-am ú-lá ta-dí-ni-im,"But as for you, you never sent me word and never encouraged me.",phucthaiv02_oa_sentences.csv
+a-we-lu-ú ú-nu-hu,the men make trouble,akkadian-translation.csv
+a-we-lu-ú ú-nu-hu,The men make trouble.,phucthaiv02_oa_sentences.csv
+a-wi-lu a-ni-ú-tum da-a-nu,these gentlemen were the judges,akkadian-translation.csv
+a-wi-lu a-ni-ú-tum da-a-nu,These men were the judges.,akkadian-translation.csv
+a-wi-lu a-ni-ú-tum da-a-nu,These gentlemen were the judges.,phucthaiv02_oa_sentences.csv
+a-wi-lu a-ni-ú-tum da-a-nu,These men acted as judges.,phucthaiv02_oa_sentences.csv
+a-šu-mì lu-qú-tim ša a-bi-ni a-šar ša-lá-mì-ša a-ṣé-er ša ki-ma a-bi-ni ù a-ṣé-ri-ku-nu a-dí ma-lá ú ší-ni-šu áš-pu-ra-ku-nu-tí,I have written once or twice to our father’s representatives and to you about how to make our father’s goods safe.,akkadian-translation.csv
+a-šu-mì lu-qú-tim ša a-bi-ni a-šar ša-lá-mì-ša a-ṣé-er ša ki-ma a-bi-ni ù a-ṣé-ri-ku-nu a-dí ma-lá ú ší-ni-šu áš-pu-ra-ku-nu-tí,Once or twice I have written to our father's representatives and to you about how to deal with our father's goods in a safe manner.,phucthaiv02_oa_sentences.csv
+a-ḫi a-ta,My dear brother.,akkadian-translation.csv
+a-ḫi a-ta,My dear brother.,phucthaiv02_oa_sentences.csv
+a-ḫi a-ta a-na té-er-tí-a i-ḫi-id,"My dear brother, pay heed to my message.",akkadian-translation.csv
+a-ḫi a-ta a-na té-er-tí-a i-ḫi-id,"My dear brother, heed my instructions.",published_texts_sentences.csv
+a-ḫi a-ta be-lí a-ta,My dear brother and lord.,phucthaiv02_oa_sentences.csv
+a-ḫi a-ta be-lí a-ta,My dear brother!,published_texts_sentences.csv
+a-ḫi a-ta we-da-ku,"My dear brother, I am alone.",akkadian-translation.csv
+a-ḫi a-ta we-da-ku,"My dear brother, I am alone.",phucthaiv02_oa_sentences.csv
+eq-lúm li-iṣ-ba-sú,Let the earth seize it!,akkadian-translation.csv
+eq-lúm li-iṣ-ba-sú,Let the open country (overland journey) seize it!,published_texts_sentences.csv
+gi-im-lá-ni,Do me a favour.,phucthaiv02_oa_sentences.csv
+gi-im-lá-ni,Do me a favor.,published_texts_sentences.csv
+i-na pá-ni-tim-ma áš-pu-ra-kum um-ma a-na-ku-ma,"I sent word to you earlier, saying",akkadian-translation.csv
+i-na pá-ni-tim-ma áš-pu-ra-kum um-ma a-na-ku-ma,"I wrote to you earlier, saying:",phucthaiv02_oa_sentences.csv
+i-na ša-pá-at na-ri-im iš-tí-in e-me-ra-am a-qí-i iš-tí-in i-na ur-šu-ú a-na IŠTAR be-lá-at kà-le-ta a-qí-i iš-tí-in i-na ma-ma ILLAT-tum iq-be-ma a-qí-i 15 GÍN AN.NA a-na e-ri-qí-im áš-qúl,On the river-bank I sacrificed one sheep;,train.csv
+i-na ša-pá-at na-ri-im iš-tí-in e-me-ra-am a-qí-i iš-tí-in i-na ur-šu-ú a-na IŠTAR be-lá-at kà-le-ta a-qí-i iš-tí-in i-na ma-ma ILLAT-tum iq-be-ma a-qí-i 15 GÍN AN.NA a-na e-ri-qí-im áš-qúl,On the river-bank I sacrificed one sheep;,train_dataset_w_most_sources.csv
+i-nu-mì ta-tal-ku lá tí-dí-e ki-ma ha-ra-na-tum sà-hu-a-ni ù É.GAL-lu da-nu-ni,"When you left, did you not know that the roads were in turmoil, and that the palaces were on guard?",akkadian-translation.csv
+i-nu-mì ta-tal-ku lá tí-dí-e ki-ma ha-ra-na-tum sà-hu-a-ni ù É.GAL-lu da-nu-ni,Did you not know that when you had left the roads were in turmoil and the palaces were headstrong?,phucthaiv02_oa_sentences.csv
+ig-ri sà-ri-dim ša-bu,The wages of the donkey driver are satisfied.,akkadian-translation.csv
+ig-ri sà-ri-dim ša-bu,The wages of the driver are paid.,published_texts_sentences.csv
+ig-ri sà-ri-dim ša-bu,The wages of the driver are paid.,published_texts_sentences.csv
+it-bi-a-ma i-tal-kam,He went and left.,akkadian-translation.csv
+it-bi-a-ma i-tal-kam,He got up and left.,published_texts_sentences.csv
+iš-tí KÙ.BABBAR uk-ta-al,he is held by the silver.,phucthaiv02_oa_sentences.csv
+iš-tí KÙ.BABBAR uk-ta-al,With the silver he is held.,phucthaiv02_oa_sentences.csv
+iš-tí KÙ.BABBAR uk-ta-al,He is held by the silver.,published_texts_sentences.csv
+iš-tù ša-lá-tù-wa-ar KÙ.BABBAR a-na a-lim{ki} a-ta-na-ší a-li-ik šu <gap>,I went from Salatuwar silver to the City I use to carry <gap>,train.csv
+iš-tù ša-lá-tù-wa-ar KÙ.BABBAR a-na a-lim{ki} a-ta-na-ší a-li-ik šu <gap>,from Salatuwar silver to the City I use to carry <gap> I went <gap>,train_dataset_w_most_sources.csv
+iḫ-da-ma DAM.GÀR-ri KÙ.BABBAR ša-áš-qí-lá-ma ku-un-kà-ma i-na pá-nim-ma šé-bi-lá-nim,"Take care, make the agents pay the silver, seal it, and send it to me at the first opportunity.",akkadian-translation.csv
+iḫ-da-ma DAM.GÀR-ri KÙ.BABBAR ša-áš-qí-lá-ma ku-un-kà-ma i-na pá-nim-ma šé-bi-lá-nim,Take care to cause the merchants to pay and seal and send it to me immediately.,published_texts_sentences.csv
+ki-ma a-wa-at kà-ri-im ú-ṣa-áb,He shall add interest according to the rule of the karum.,akkadian-translation.csv
+ki-ma a-wa-at kà-ri-im ú-ṣa-áb,He will add (interest) at the rate of the colony.,published_texts_sentences.csv
+ki-ma a-wa-at kà-ri-im ú-ṣa-áb,He will add (interest) at the rate of the colony.,published_texts_sentences.csv
+ki-ma ku-pá-um ma-du-ni a-na lu-qú-ut DAM.GÀR-ri-im ša ki-ma qá-qí-dí-a ú-lá áš-tap-ra-am,"Since there is a lot of snow, I have not sent anyone in whom I could trust to get the goods of the merchant …",akkadian-translation.csv
+ki-ma ku-pá-um ma-du-ni a-na lu-qú-ut DAM.GÀR-ri-im ša ki-ma qá-qí-dí-a ú-lá áš-tap-ra-am,Since there is a lot of snow I have not sent anyone on whom I could rely for the goods of the merchant.,phucthaiv02_oa_sentences.csv
+ki-ma té-er-tí ta-áš-me-ú-ni té-er-ta-kà iš-tí ba-tí-qí-im pá-nim-ma li-li-kam,"When you hear my message, let your message come with the very first bātiqum.",akkadian-translation.csv
+ki-ma té-er-tí ta-áš-me-ú-ni té-er-ta-kà iš-tí ba-tí-qí-im pá-nim-ma li-li-kam,"When you read my message, let your message come with the next express caravan.",published_texts_sentences.csv
+ku-a-tí li-li-kam a-wa-sú lá-ag-mu-ur i qá-tí-im i-ri-tim lá a-lá-kam,<gap> let him come to you. I shall conclude his case. I shall not arrive empty-handed.,train.csv
+ku-a-tí li-li-kam a-wa-sú lá-ag-mu-ur i qá-tí-im i-ri-tim lá a-lá-kam,<gap> let him come to you. I shall conclude his case. I shall not arrive empty-handed.,train_dataset_w_most_sources.csv
+kà-ru-um dí-nam i-dí-in-ma,The colony passed a verdict:,akkadian-translation.csv
+kà-ru-um dí-nam i-dí-in-ma,The colony has passed a verdict:,phucthaiv02_oa_sentences.csv
+kà-ru-um dí-nam i-dí-in-ma,The colony has passed a verdict stating that,phucthaiv02_oa_sentences.csv
+kà-ru-um dí-nam i-dí-in-ma a-na lu-qú-tim ma-la a-na a-šùr-be-el-a-wa-tim i-pí-iq-du-ma ša-lim-a-šùr ú-šé-ṣí-ú ṭup-pá-am ša ku-nu-ki-šu ša-lim-a-šùr a-na šu-ku-bi-im i-da-an a-na kur-ub-IŠTAR šu-ku-bu-um ú-lá i-tù-a-ar šu-ma a-na šu-ku-bi-im ma-ma-an i-tù-a-ar ša-lim-a-šùr ú-ba-áb-šu,"The colony has passed a verdict: for all the goods that were entrusted to Aššur-bēl-awātim, and which Šalim-Aššūr had taken out, Šalim-Aššur will give a tablet bearing his seal to Šu-Kūbum. Šu-Kūbum will not raise claim against Kurub-Ištar. If anyone raises claim against Šu-Kūbum, Šalim-Aššur will clear him.",train.csv
+kà-ru-um dí-nam i-dí-in-ma a-na lu-qú-tim ma-la a-na a-šùr-be-el-a-wa-tim i-pí-iq-du-ma ša-lim-a-šùr ú-šé-ṣí-ú ṭup-pá-am ša ku-nu-ki-šu ša-lim-a-šùr a-na šu-ku-bi-im i-da-an a-na kur-ub-IŠTAR šu-ku-bu-um ú-lá i-tù-a-ar šu-ma a-na šu-ku-bi-im ma-ma-an i-tù-a-ar ša-lim-a-šùr ú-ba-áb-šu,"The colony has passed a verdict: for all the goods that were entrusted to Aššur-bēl-awātim, and which Šalim-Aššūr had taken out, Šalim-Aššur will give a tablet bearing his seal to Šu-Kūbum. Šu-Kūbum will not raise claim against Kurub-Ištar. If anyone raises claim against Šu-Kūbum, Šalim-Aššur will clear him.",train_dataset_w_most_sources.csv
+kà-ru-um dí-nam i-dí-in-ma ša-lim-a-šùr ma-la KÙ.BABBAR a-na i-dí-a-bi-im ú-ša-qí-lu <gap> mar <gap> a-na i-dí-a-bi-im <gap> ki i-<gap> a-na-kam-ma e-<gap> šu-ma lá e-ta-wu a-na KÙ.BABBAR-pí-šu sí-kà-áš-nu ú-kà-al,"The colony has rendered a verdict, stating that whatever silver Šalim-Aššur has paid for Iddin-abum, <gap>",train.csv
+kà-ru-um dí-nam i-dí-in-ma ša-lim-a-šùr ma-la KÙ.BABBAR a-na i-dí-a-bi-im ú-ša-qí-lu <gap> mar <gap> a-na i-dí-a-bi-im <gap> ki i-<gap> a-na-kam-ma e-<gap> šu-ma lá e-ta-wu a-na KÙ.BABBAR-pí-šu sí-kà-áš-nu ú-kà-al,"The colony has rendered a verdict, stating that whatever silver Šalim-Aššur has paid for Iddin-abum, <gap>",train_dataset_w_most_sources.csv
+li-ba-kà lá i-pá-ri-id,Do not get afraid!,phucthaiv02_oa_sentences.csv
+li-ba-kà lá i-pá-ri-id,Dein Herz soll nicht (darum) zittern.,published_texts_sentences.csv
+li-bi la tù-la-ma-an,Do not make me angry!,akkadian-translation.csv
+li-bi la tù-la-ma-an,Do not make me angry!,published_texts_sentences.csv
+li-bu-šu lá i-lá-mì-in,Lest he gets angry.,phucthaiv02_oa_sentences.csv
+li-bu-šu lá i-lá-mì-in,May he not become ill-tempered.,published_texts_sentences.csv
+li-mu-um DINGIR-šu-GAL DUMU ba-zi-a,The eponym is Ilšu-rabi son of Baziya.,phucthaiv02_oa_sentences.csv
+li-mu-um DINGIR-šu-GAL DUMU ba-zi-a,Eponymate: Ilšu-rabi s. Bazia.,published_texts_sentences.csv
+li-mu-um ì-lí-dan,Eponymy Ilī-dan.,phucthaiv02_oa_sentences.csv
+li-mu-um ì-lí-dan,Eponymate: Ilī-dān.,published_texts_sentences.csv
+li-mu-um ì-lí-dan,Eponymate: Ilī-dān.,published_texts_sentences.csv
+li-mu-um ì-lí-dan,Eponymate: Ilī-dan.,published_texts_sentences.csv
+li-mu-um ṣí-lu-lu,Eponym: Ṣilulu.,phucthaiv02_oa_sentences.csv
+li-mu-um ṣí-lu-lu,Eponymate: Ṣilūlu.,published_texts_sentences.csv
+lu i-na ma-ṣa-ra-tim AN.NA 10 ma-na nu-šé-ra-ba-am,We will lead at least 10 minas into the safe deposit.,akkadian-translation.csv
+lu i-na ma-ṣa-ra-tim AN.NA 10 ma-na nu-šé-ra-ba-am,"Send word whether we shall let some 10 minas of tin enter the guard-posts,",phucthaiv02_oa_sentences.csv
+lu qá-i,“Do wait!”,akkadian-translation.csv
+lu qá-i,"""Do wait!”",akkadian-translation.csv
+lu qá-i,"""Do wait!""",phucthaiv02_oa_sentences.csv
+lá i-sà-ḫu-ur,He must not delay.,phucthaiv02_oa_sentences.csv
+lá i-sà-ḫu-ur,He should not delay.,phucthaiv02_oa_sentences.csv
+lá i-sà-ḫu-ur,He must not be delayed!,published_texts_sentences.csv
+lá ta-ga-mì-lá-šu,"Have no consideration with him!""",phucthaiv02_oa_sentences.csv
+lá ta-ga-mì-lá-šu,Do not show him any favours!,published_texts_sentences.csv
+lá tù-na-a-ni ù sí-ki-ni lá ú-kà-lu,Do not cheat me lest they detain us.,akkadian-translation.csv
+lá tù-na-a-ni ù sí-ki-ni lá ú-kà-lu,"Do not cheat me, lest they detain us.",phucthaiv02_oa_sentences.csv
+lá tù-na-ha-ni,Do not annoy me!,akkadian-translation.csv
+lá tù-na-ha-ni,Do not obstruct me.,akkadian-translation.csv
+lá tù-na-ha-ni,Do not obstruct me,akkadian-translation.csv
+lá tù-na-ha-ni,Do not obstruct me!,phucthaiv02_oa_sentences.csv
+lá tù-na-ha-ni,Do not obstruct me.,phucthaiv02_oa_sentences.csv
+ma-lá ú-ṭá-tám a-na a-wi-il₅-tim ta-du-nu ti-ir-ta-kà li-li-kam-ma iš-tí ší-im ra-qá-tí-im lu-šé-bi₄-la-ku-um,"Let word from you come to me as to how much grain you will give to the lady, so that I may send it to you with the proceeds from the thin textiles.",phucthaiv02_oa_sentences.csv
+ma-lá ú-ṭá-tám a-na a-wi-il₅-tim ta-du-nu ti-ir-ta-kà li-li-kam-ma iš-tí ší-im ra-qá-tí-im lu-šé-bi₄-la-ku-um,"Send me word about how much grain you will give to the Lady, so I can send it to you with the proceeds from the thin textiles.",train.csv
+me-er-ú me-tim né-nu,We are heirs.,akkadian-translation.csv
+me-er-ú me-tim né-nu,We are heirs!,akkadian-translation.csv
+me-er-ú me-tim né-nu,We are the sons of a dead man.,phucthaiv02_oa_sentences.csv
+me-er-ú me-tim né-nu,We are inheritors (sons of a dead man).,phucthaiv02_oa_sentences.csv
+mì-ma li-ba-kà lá i-pá-ri-id,Do not worry.,akkadian-translation.csv
+mì-ma li-ba-kà lá i-pá-ri-id,There is absolutely no reason to get nervous.,phucthaiv02_oa_sentences.csv
+mì-ma li-ba-kà lá i-pá-ri-id,Do not worry at all.,phucthaiv02_oa_sentences.csv
+mì-ma lá ta-pá-lá-aḫ,Do not fear anything.,phucthaiv02_oa_sentences.csv
+mì-ma lá ta-pá-lá-aḫ,Do not fear whatsoever.,published_texts_sentences.csv
+ni-is-ha-sú DIRI ša-du-a-sú ša-bu,The nishatum-tax has been added and the shaddu'atum-tax has been paid.,akkadian-translation.csv
+ni-is-ha-sú DIRI ša-du-a-sú ša-bu,"The nishātu-tax is added, the šaddu’utu-tax is satisfied.",akkadian-translation.csv
+ni-is-ha-sú DIRI ša-du-a-sú ša-bu,The nishatum-tax has been added and the šaddu’atum-tax has been paid.,akkadian-translation.csv
+ni-is-ha-sú DIRI ša-du-a-sú ša-bu,"its import duty added, its transport tariff paid for -",phucthaiv02_oa_sentences.csv
+ni-kà-sí iš-tí-šu a-dí-ni la ni-sí,We have not yet settled the accounts with him.,akkadian-translation.csv
+ni-kà-sí iš-tí-šu a-dí-ni la ni-sí,We have not yet cleared accounts with him.,published_texts_sentences.csv
+ra-ma-ku-nu za-ki-a-ma al-kà-ni-ma a-wa-at-ku-nu le-qé-a-ni,"Clear yourselves, come and take up the matter.",akkadian-translation.csv
+ra-ma-ku-nu za-ki-a-ma al-kà-ni-ma a-wa-at-ku-nu le-qé-a-ni,"Clear yourselves, come here and take up your matter.",phucthaiv02_oa_sentences.csv
+ta-aḫ-sí-sà-tum ša tám-kà-ru-tim,Memoranda concerning customers.,phucthaiv02_oa_sentences.csv
+ta-aḫ-sí-sà-tum ša tám-kà-ru-tim,Memoranda concerning customers.,train.csv
+ta-aḫ-sí-sà-tum ša ší-be ša ší-im SÍG.ḪI.A ša ú-ší-na-lam,Memoranda with witnesses concerning the proceeds of Ušinalam's wool.,phucthaiv02_oa_sentences.csv
+ta-aḫ-sí-sà-tum ša ší-be ša ší-im SÍG.ḪI.A ša ú-ší-na-lam,Memoranda with witnesses concerning the proceeds of Ušinalam's wool.,train.csv
+ta-áš-pu-ra-am um-ma a-ta-ma,You wrote to me:,akkadian-translation.csv
+ta-áš-pu-ra-am um-ma a-ta-ma,You wrote to me as follows.,akkadian-translation.csv
+ta-áš-pu-ra-am um-ma a-ta-ma,You wrote to me and you said as follows:,akkadian-translation.csv
+ta-áš-pu-ra-am um-ma a-ta-ma,"You have written, saying:",phucthaiv02_oa_sentences.csv
+té-er-ta-ak-nu li-li-kam,May your report come to me.,akkadian-translation.csv
+té-er-ta-ak-nu li-li-kam,Let your report come,akkadian-translation.csv
+té-er-ta-ak-nu li-li-kam,Send me word.,published_texts_sentences.csv
+té-er-ta-kà li-li-kam,Let your report come to me.,akkadian-translation.csv
+té-er-ta-kà li-li-kam,Your report should come to me.,akkadian-translation.csv
+té-er-ta-kà li-li-kam,May your instructions reach me.,akkadian-translation.csv
+té-er-ta-kà li-li-kam,Let a report from you come to me.,akkadian-translation.csv
+té-er-ta-kà li-li-kam,May a letter from you reach me.,akkadian-translation.csv
+té-er-ta-kà li-li-kam,Let your message come.,published_texts_sentences.csv
+tí-ib-a-ma a-tal-kam,Set out and leave.,phucthaiv02_oa_sentences.csv
+tí-ib-a-ma a-tal-kam,and set out and come here.,phucthaiv02_oa_sentences.csv
+tí-ib-a-ma a-tal-kam,Get up and come here!,published_texts_sentences.csv
+tí-ir-ta-kà li-li-kam,and send me word here.,akkadian-translation.csv
+tí-ir-ta-kà li-li-kam,Send me your report.,phucthaiv02_oa_sentences.csv
+tí-ir-ta-kà li-li-kam,Send word.,phucthaiv02_oa_sentences.csv
+um-ma a-na-ku-ma,I speak as follows:,akkadian-translation.csv
+um-ma a-na-ku-ma,and I said,akkadian-translation.csv
+um-ma a-na-ku-ma,I spoke as follows.,akkadian-translation.csv
+um-ma a-na-ku-ma,I said as follows,akkadian-translation.csv
+um-ma a-na-ku-ma,I spoke as follows,akkadian-translation.csv
+um-ma a-na-ku-ma,I said as follows:,akkadian-translation.csv
+um-ma a-na-ku-ma,I said:,akkadian-translation.csv
+um-ma a-na-ku-ma,I (said) thus:,akkadian-translation.csv
+um-ma a-na-ku-ma,this (is what) I (said):,akkadian-translation.csv
+um-ma a-na-ku-ma,but I said:,akkadian-translation.csv
+um-ma a-na-ku-ma,I said:,phucthaiv02_oa_sentences.csv
+um-ma a-na-ku-ma,saying:,phucthaiv02_oa_sentences.csv
+um-ma a-na-ku-ma li-iš-qú-lá-ku-ma ṭup-pu-šu dí-in-šu-um,I said as follows: 'Let him pay you and then give him his tablet.',akkadian-translation.csv
+um-ma a-na-ku-ma li-iš-qú-lá-ku-ma ṭup-pu-šu dí-in-šu-um,"I said, ""Let him weigh it out to you and give his tablet to him.""",published_texts_sentences.csv
+um-ma a-ta-ma,Thus you say:,akkadian-translation.csv
+um-ma a-ta-ma,You (then) said:,akkadian-translation.csv
+um-ma a-ta-ma,You answered:,akkadian-translation.csv
+um-ma a-ta-ma,(while) you (spoke) as follows:,akkadian-translation.csv
+um-ma a-ta-ma,Thus you have (said) :,akkadian-translation.csv
+um-ma a-ta-ma,You said (earlier):,akkadian-translation.csv
+um-ma a-ta-ma,You shall speak as follows.,akkadian-translation.csv
+um-ma a-ta-ma,Thus you (spoke):,akkadian-translation.csv
+um-ma a-ta-ma,You said:,phucthaiv02_oa_sentences.csv
+um-ma a-ta-ma,"You said: ""I sent you a letter, but you paid no attention to my letter, and you did not return me your missive.""",published_texts_sentences.csv
+um-ma a-ta-ma ke-na a-pu-ul,"You said ‘Yes, I promised it’.",akkadian-translation.csv
+um-ma a-ta-ma ke-na a-pu-ul,"You said: ""Yes, I promised it.""",phucthaiv02_oa_sentences.csv
+um-ma a-tù-nu-ma,You (shall say) as follows:,akkadian-translation.csv
+um-ma a-tù-nu-ma,You shall say as follows:,akkadian-translation.csv
+um-ma a-tù-nu-ma,"(Instead) you said,",akkadian-translation.csv
+um-ma a-tù-nu-ma,You said:,phucthaiv02_oa_sentences.csv
+um-ma i-<gap> a-na ku-zi-zi-a <gap> qí-bi-ma 2 ma-na KÙ.GI 8 ma-na KÙ.BABBAR ku-zi-zi-a ub-lam KÙ.GI-kà ta-dí-in ší-im-šu <gap> KÙ.BABBAR <gap>-ku-um mì-ma a-nim bé-lá-num ú {d}IM-ba-ni i-ra-dí-ú-ni-kum,From I<gap> to <gap> and Kuziziya: Kuziziya brought 2 minas of gold and 8 minas of silver. Your gold has been sold; its price was <gap> to you. All this Bēlānum and Adad-bāni lead to you.,train.csv
+um-ma i-<gap> a-na ku-zi-zi-a <gap> qí-bi-ma 2 ma-na KÙ.GI 8 ma-na KÙ.BABBAR ku-zi-zi-a ub-lam KÙ.GI-kà ta-dí-in ší-im-šu <gap> KÙ.BABBAR <gap>-ku-um mì-ma a-nim bé-lá-num ú {d}IM-ba-ni i-ra-dí-ú-ni-kum,From I <gap> to <gap> and Kuziziya: Kuziziya brought 2 minas of gold and 8 minas of silver. Your gold has been sold; its price was <gap> to you. All this Bēlānum and Adad-bāni lead to you.,train_dataset_w_most_sources.csv
+um-ma ma-ma-ḫi-ir ù SIG₅-pí-a-šur a-na a-lá-ḫi-im DUMU šál-ma-a-šur,Thus say Man-mahir and Damiq-pī-Aššur to Ali-ahum son of Šalim-Aššur.,phucthaiv02_oa_sentences.csv
+um-ma ma-ma-ḫi-ir ù SIG₅-pí-a-šur a-na a-lá-ḫi-im DUMU šál-ma-a-šur,From Man-mahir and Damiq-pī-Aššur to Ali-ahum son of Šalim-Aššur.,train.csv
+um-ma ša-lim-a-šur-ma,Shalim-Assur answered:,phucthaiv02_oa_sentences.csv
+um-ma ša-lim-a-šur-ma,Thus says Šalim-Aššur:,phucthaiv02_oa_sentences.csv
+um-ma ša-lim-a-šur-ma,From Šalim-Aššur:,published_texts_sentences.csv
+um-ma ša-lim-a-šùr-ma,from Šalim-Aššur:,phucthaiv02_oa_sentences.csv
+um-ma ša-lim-a-šùr-ma,Šalim-Aššur said:,phucthaiv02_oa_sentences.csv
+um-ma ša-lim-a-šùr-ma,Šalim-Aššur answered:,phucthaiv02_oa_sentences.csv
+um-ma ša-lim-a-šùr-ma,From Šalim-Aššur:,published_texts_sentences.csv
+um-ma šu-nu-ma,They spoke as follows.,akkadian-translation.csv
+um-ma šu-nu-ma,They said as follows.,akkadian-translation.csv
+um-ma šu-nu-ma,and they said:,phucthaiv02_oa_sentences.csv
+um-ma šu-ut-ma a-ša-qal,"He answered: ""I shall pay.""",phucthaiv02_oa_sentences.csv
+um-ma šu-ut-ma a-ša-qal,"He said,  ""I will pay.""",published_texts_sentences.csv
+wa-bi-il₅ ṭup-pí-im šu-ut DAM.GÀR,The bearer of the tablet is the merchant.,phucthaiv02_oa_sentences.csv
+wa-bi-il₅ ṭup-pí-im šu-ut DAM.GÀR,The bearer of the tablet is the merchant.,published_texts_sentences.csv
+É a-bi-ni a-na-ku ù a-tù-nu na-am-ra-ni,"As for our paternal house, I and you are happy!",akkadian-translation.csv
+É a-bi-ni a-na-ku ù a-tù-nu na-am-ra-ni,"As for our paternal house, I and you are happy!",phucthaiv02_oa_sentences.csv
+áš-pu-ra-ku-nu-tí,"I have written to you,",akkadian-translation.csv
+áš-pu-ra-ku-nu-tí,I wrote to you (pl.).,published_texts_sentences.csv
+áš-pu-ra-ku-nu-tí,I wrote to you (pl.).,published_texts_sentences.csv
+ú-za-ni pì-té,Inform us!,akkadian-translation.csv
+ú-za-ni pì-té,Inform us.,published_texts_sentences.csv
+ŠU.NÍGIN KÙ.BABBAR-pì-kà 15 ma-na 10 GÍN lu ša AN.NA ú ṣú-ba-tí-kà ku-nu-ki-ni ṣí-li-a na-áš-a-ku-um,"Total of your silver: 15 minas 10 shekels, Șilliya brings you under our seal - both that from the tin and that from your textiles.",phucthaiv02_oa_sentences.csv
+ŠU.NÍGIN KÙ.BABBAR-pì-kà 15 ma-na 10 GÍN lu ša AN.NA ú ṣú-ba-tí-kà ku-nu-ki-ni ṣí-li-a na-áš-a-ku-um,"Total of your silver: 15 minas 10 shekels, Ṣilliya brings you under our seal - both that from the tin and that from your textiles.",train.csv
+ŠU.NÍGIN KÙ.BABBAR-pì-kà 15 ma-na 10 GÍN lu ša AN.NA ú ṣú-ba-tí-kà ku-nu-ki-ni ṣí-li-a na-áš-a-ku-um,"Total of your silver: 15 minas 10 shekels, Ṣilliya brings you under our seal - both that from the tin and that from your textiles.",train_dataset_w_most_sources.csv
+ŠÀ.BA 25 ku-ta-nu 13 ma-na.TA ta-ad-nu,"Thereof, 25 kutānus were sold at 13 minas each",akkadian-translation.csv
+ŠÀ.BA 25 ku-ta-nu 13 ma-na.TA ta-ad-nu,"Thereof 25 textiles were sold at 13 minas each,",phucthaiv02_oa_sentences.csv
+šu-ma lá iš-qú-ul 1.5 GÍN.TA i-na ITU.KAM a-na 1 ma-na-im ú-ṣa-áb,"If he has not paid in time, he must pay interest at the rate of 1.5 shekel per month per mina.",phucthaiv02_oa_sentences.csv
+šu-ma lá iš-qú-ul 1.5 GÍN.TA i-na ITU.KAM a-na 1 ma-na-im ú-ṣa-áb,"If he has not paid (in time), he must add interest at the rate 1.5 shekel per month per mina.",phucthaiv02_oa_sentences.csv
+šu-ma lá iš-qú-ul 1.5 GÍN.TA i-na ITU.KAM a-na 1 ma-na-im ú-ṣa-áb,"If he does not pay (on time), he will add 1 1/2 shekels per mina per month (as interest).",published_texts_sentences.csv
+šu-ma lá iš-qú-ul ki-ma a-wa-at kà-ri-im ṣí-ib-tám ú-ṣa-áb,"If he does not pay, he will add interest according to the rate of the colony.",akkadian-translation.csv
+šu-ma lá iš-qú-ul ki-ma a-wa-at kà-ri-im ṣí-ib-tám ú-ṣa-áb,if he has not paid in time he shall add interest according to the rule of the colony.,phucthaiv02_oa_sentences.csv
+šu-ma lá iš-qú-ul ki-ma a-wa-at kà-ri-im ṣí-ib-tám ú-ṣa-áb,If he does not pay he will add interest in accordance with the regulation of the colony.,phucthaiv02_oa_sentences.csv
+šu-ma lá iš-qú-ul ki-ma a-wa-at kà-ri-im ṣí-ib-tám ú-ṣa-áb,"If he has not paid (in time), he is to add interest in accordance with the rule of the colony.",phucthaiv02_oa_sentences.csv
+šu-ma lá iš-qú-ul ki-ma a-wa-at kà-ri-im ṣí-ib-tám ú-ṣa-áb,"If he has not paid in time, he will add interest according to the rule of the colony.",phucthaiv02_oa_sentences.csv
+šu-ma lá iš-qú-ul ki-ma a-wa-at kà-ri-im ṣí-ib-tám ú-ṣa-áb,If he does not pay he will add interest in conformity with the rule of the karum.,phucthaiv02_oa_sentences.csv
+šu-ma lá iš-qú-ul ki-ma a-wa-at kà-ri-im ṣí-ib-tám ú-ṣa-áb,"If he has not paid, he must add interest in accordance with the rule of the colony.",phucthaiv02_oa_sentences.csv
+šu-ma lá iš-qú-ul ki-ma a-wa-at kà-ri-im ṣí-ib-tám ú-ṣa-áb,"If he does not pay, he shall add interest in accordance with the rule of the colony.",phucthaiv02_oa_sentences.csv
+šu-ma lá iš-qú-ul ki-ma a-wa-at kà-ri-im ṣí-ib-tám ú-ṣa-áb,"If he does not pay (on time), he will add the colony rate as interest.",published_texts_sentences.csv
+šu-ma lá iš-qú-ul ki-ma a-wa-at kà-ri-im ṣí-ib-tám ú-ṣa-áb,"If he does not pay, interest will be added at the colony rate.",published_texts_sentences.csv
+šu-ma lá iš-qú-ul ki-ma a-wa-at kà-ri-im ṣí-ib-tám ú-ṣa-áb,"If he does not pay (on time), he will add interest at the colony rate.",published_texts_sentences.csv
+šu-ma lá iš-qú-ul ki-ma a-wa-at kà-ri-im ṣí-ib-tám ú-ṣa-áb,"If he does not pay, interest will be added at the colony rate.",published_texts_sentences.csv
+šu-ma lá iš-qú-ul ki-ma a-wa-at kà-ri-im ṣí-ib-tám ú-ṣa-áb,If he does not pay the word of the colony will be added in interest because of the silver.,published_texts_sentences.csv
+šu-ma lá iš-qú-ul ki-ma a-wa-at kà-ri-im ṣí-ib-tám ú-ṣa-áb,If he does not pay the word of the colony will be added in interest.,published_texts_sentences.csv
+šu-ma lá iš-qú-ul ki-ma a-wa-at kà-ri-im ṣí-ib-tám ú-ṣa-áb,"If he does not pay (on time), he will add interest at the rate of the colony.",published_texts_sentences.csv
+šu-ma lá iš-qúl ki-ma a-wa-at kà-ri-im ṣí-ib-tám ú-ṣa-áb,If he does not pay [he will add] interest [in accordance with the rule of the] colony.,phucthaiv02_oa_sentences.csv
+šu-ma lá iš-qúl ki-ma a-wa-at kà-ri-im ṣí-ib-tám ú-ṣa-áb,"If he does not pay, he will add interest in accordance with the regulation of the colony.",phucthaiv02_oa_sentences.csv
+šu-ma lá iš-qúl ki-ma a-wa-at kà-ri-im ṣí-ib-tám ú-ṣa-áb,If he does not pay he will add interest according to the regulation of the colony.,phucthaiv02_oa_sentences.csv
+šu-ma lá iš-qúl ki-ma a-wa-at kà-ri-im ṣí-ib-tám ú-ṣa-áb,"If he does not pay (on time), he will add (interest) at the rate of the colony.",published_texts_sentences.csv
+šu-ma za-<gap> ša-lim-a-šùr šu-ma a-ší-it ša-al-ma-at <gap> ma <gap> a-na a-wa-tim a-ni-a-tim kà-ru-um i-dí-ma lu ta am li ú <gap>,If Za<gap> Šalim-Aššur. If Ašet is safe <gap>,train.csv
+šu-ma za-<gap> ša-lim-a-šùr šu-ma a-ší-it ša-al-ma-at <gap> ma <gap> a-na a-wa-tim a-ni-a-tim kà-ru-um i-dí-ma lu ta am li ú <gap>,If Za <gap> Šalim-Aššur. If Ašet is safe <gap>,train_dataset_w_most_sources.csv
+šál-ma-ku,I am well.,akkadian-translation.csv
+šál-ma-ku,I am well.,phucthaiv02_oa_sentences.csv
+šál-ma-ku,I am well.,published_texts_sentences.csv
+šál-ma-ku,I am well.,published_texts_sentences.csv
+šál-ma-ni,We are well.,phucthaiv02_oa_sentences.csv
+šál-ma-ni,We are well.,published_texts_sentences.csv
+šál-ma-ni,We are well.,published_texts_sentences.csv
+ší-tí AN.NA-ki-kà 3 ma-na 15 GÍN na-áš-ú-ni-kum,"The rest of your tin: 3 minas 15 shekels, they bring to you.",akkadian-translation.csv
+ší-tí AN.NA-ki-kà 3 ma-na 15 GÍN na-áš-ú-ni-kum,"the rest of your tin, 3 minas 15 shekels, they bring to you.",phucthaiv02_oa_sentences.csv
+ší-tí TÚG.ḪI-ti-kà 26 TÚG.ḪI.A iz-ku-ú-nim,"The remainder of your textiles, 26 textiles, have been cleared.",akkadian-translation.csv
+ší-tí TÚG.ḪI-ti-kà 26 TÚG.ḪI.A iz-ku-ú-nim,They cleared the remainder of your textiles—26 textiles.,published_texts_sentences.csv
+ḫu-ra-ṣí ni-is-ḫa-tum,My gold is the excise tax.,akkadian-translation.csv
+ḫu-ra-ṣí ni-is-ḫa-tum,My gold is the excise-tax.,published_texts_sentences.csv
+ṣa-áb-ta-šu-ma KÙ.BABBAR ša-áš-qí-lá-šu,so seize him and make him pay the silver.,phucthaiv02_oa_sentences.csv
+ṣa-áb-ta-šu-ma KÙ.BABBAR ša-áš-qí-lá-šu,Seize him and make him pay the silver.,published_texts_sentences.csv
+ṣí-ib-tám lá ta-ša-me-a,Do not listen to interest.,akkadian-translation.csv
+ṣí-ib-tám lá ta-ša-me-a,Do not accept interest.,akkadian-translation.csv
+ṣí-ib-tám lá ta-ša-me-a,Don't listen to the interest.,published_texts_sentences.csv
+ṭup-pu-a ha-ru-mu-tum me-eh-ru-a ú ta-ah-sí-sà-tum,"My certified tablets, my copies and memoranda.",phucthaiv02_oa_sentences.csv
+ṭup-pu-a ha-ru-mu-tum me-eh-ru-a ú ta-ah-sí-sà-tum,"My certified tablets, my copies and memoranda.",train_dataset_w_most_sources.csv
+ṭup-pu-kà 5 ù 6 i-li-ku-nim,Five or six of your tablets have come to me.,akkadian-translation.csv
+ṭup-pu-kà 5 ù 6 i-li-ku-nim,Five or six of your tablets have arrived.,published_texts_sentences.csv
+ṭup-pu-um ša en-na-sú-en₆ DUMU i-dí-a-bi-im,Tablet concerning Enna-Suen son of Iddin-abum.,phucthaiv02_oa_sentences.csv
+ṭup-pu-um ša en-na-sú-en₆ DUMU i-dí-a-bi-im,Tablet concerning Enna-Suen son of Iddin-abum.,train.csv
+ṭup-pu-um ša ki-lá-li-ku-nu li-li-kam-ma KÙ.BABBAR-pì a-na-kam lá-al-qé,Let a tablet of both of you come here so that I can take my silver here.,akkadian-translation.csv
+ṭup-pu-um ša ki-lá-li-ku-nu li-li-kam-ma KÙ.BABBAR-pì a-na-kam lá-al-qé,Let a tablet from both of you come to me so that I can take my silver here.,published_texts_sentences.csv
+ṭup-pu-ú ša ni-iš a-lim{ki} ku-nu-uk ba-ší,Tablets with oaths by the City.,train.csv
+ṭup-pu-ú ša ni-iš a-lim{ki} ku-nu-uk ba-ší,Tablets with oaths by the City.,train_dataset_w_most_sources.csv
+ṭup-pu-šu ḫa-ar-ma-am a-na-kam ú-kà-al,"As for his certified tablet, I retain (it) here.",akkadian-translation.csv
+ṭup-pu-šu ḫa-ar-ma-am a-na-kam ú-kà-al,"As for his certified tablet, I retain it here.",published_texts_sentences.csv
+ṭup-pu-šu ḫa-ar-ma-am ú-kà-al,I hold his certified tablet.,phucthaiv02_oa_sentences.csv
+ṭup-pu-šu ḫa-ar-ma-am ú-kà-al,I have his certified tablet;,phucthaiv02_oa_sentences.csv
+ṭup-pu-šu ḫa-ar-ma-am ú-kà-al,I have his certified tablet.,phucthaiv02_oa_sentences.csv
+ṭup-pu-šu ḫa-ar-ma-am ú-kà-al,I have in my possession his certified tablet.,published_texts_sentences.csv
+ṭup-pá-am a-nim ša i-ṣé-ri-kà ṭá-bu li-iš-ta-sí-a,Let them (fem.) read aloud this tablet which is pleasing to you.,train.csv
+ṭup-pá-am a-nim ša i-ṣé-ri-kà ṭá-bu li-iš-ta-sí-a,Let them fem. read aloud this tablet which is pleasing to you.,train_dataset_w_most_sources.csv

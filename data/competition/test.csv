@@ -3,3 +3,10 @@ id,text_id,line_start,line_end,transliteration
 1,332fda50,7,14,i-na mup-pì-im aa a-lim(ki) ia-tù u„-mì-im a-nim ma-ma-an KÙ.AN i-aa-ú-mu-ni i-na né-mì-lim da-aùr ú-lá e-WA ia-ra-tí-au kà-ru-um kà-ni-ia i-lá-qé
 2,332fda50,14,24,ki-ma mup-pì-ni ta-áa-me-a-ni a-ma-kam lu a-na aí-mì-im a-na É.GAL-lim i-dí-in lu té-ra-at É.GAL-lim ú-kà-lim lu na-aí-ma a-dí-ni lá i-dí-in ma-lá KÙ.AN na-áa-ú ni-bi„-it a-aí-im au-um-au ú au-mì a-bi„-au i-na mup-pì-im lu-up-ta-nim-ma ia-tí aí-ip-ri-ni aé-bi„-lá-nim
 3,332fda50,25,30,me-+e-er mup-pì-ni a-na kà-ar kà-ar-ma ú wa-bar-ra-tim aé-bi„-lá KÙ.AN lu a-na DAM.GÀR-ru-tim i-dí-in au-mì a-wi-lim lu-up-ta-nim
+4,test_001,1,1,1/3 ma-na 6 GÍN KÙ.B. ša tup-pá-am ša A-mur-A-šur [ú-ka-a]-lu
+5,example_test,1,1,1 e-ma-ar-šu <gap>
+6,example_test,1,1,<gap> a-na Ú-<gap> a-dí-in
+7,example_test,1,1,<gap> ⅓ ma-na a-na En-na-nim DUMU Am-ri-a áš-qúl
+8,example_train,1,1,<gap> ma-na KÙ.BABBAR ṣa-ru-pá-am <gap> GÍN KÙ.GI pá-ša-lam
+9,example_train,1,1,<gap> GÚ SÍG.HI.A <gap> 5 maš-ku <gap> 22 na-ru-qá-tum 4 ANŠE ṣa-la-mu
+10,example_train,1,1,⅓ ma-na 2 ½ GÍN KÙ.BABBAR 20 NINDA i-ṣé-er tù-wa-ra-a-ah-šu a-lá-hu-um i-šu

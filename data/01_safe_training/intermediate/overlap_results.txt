@@ -1,0 +1,20 @@
+Loaded akkadian-translation.csv: 72653 rows
+Loaded phucthaiv02_oa_sentences.csv: 10647 rows
+Loaded published_texts_sentences.csv: 6428 rows
+Loaded train.csv: 1561 rows
+Loaded train_dataset_w_most_sources.csv: 1562 rows
+
+--- Overlap Check Within Files ---
+akkadian-translation.csv: 13075 duplicate transliterations, 3 exact duplicates out of 72653
+phucthaiv02_oa_sentences.csv: 288 duplicate transliterations, 0 exact duplicates out of 10647
+published_texts_sentences.csv: 241 duplicate transliterations, 100 exact duplicates out of 6428
+train.csv: 2 duplicate transliterations, 0 exact duplicates out of 1561
+train_dataset_w_most_sources.csv: 2 duplicate transliterations, 0 exact duplicates out of 1562
+
+--- Overlap Check Across Files ---
+akkadian-translation.csv & phucthaiv02_oa_sentences.csv: 11 exact overlaps, 57 transliteration overlaps
+akkadian-translation.csv & published_texts_sentences.csv: 2 exact overlaps, 29 transliteration overlaps
+phucthaiv02_oa_sentences.csv & published_texts_sentences.csv: 6 exact overlaps, 38 transliteration overlaps
+phucthaiv02_oa_sentences.csv & train.csv: 25 exact overlaps, 38 transliteration overlaps
+phucthaiv02_oa_sentences.csv & train_dataset_w_most_sources.csv: 19 exact overlaps, 30 transliteration overlaps
+train.csv & train_dataset_w_most_sources.csv: 53 exact overlaps, 95 transliteration overlaps

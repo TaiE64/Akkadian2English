@@ -1,0 +1,48 @@
+{
+  "parallel_corpus": {
+    "total_texts": 1561,
+    "total_transliteration_chars": 665703,
+    "total_translation_chars": 780069,
+    "avg_transliteration_length": 426.5,
+    "avg_translation_length": 499.7,
+    "median_length_ratio": 1.08
+  },
+  "untranslated_corpus": {
+    "total_texts": 6392,
+    "total_chars": 3005882
+  },
+  "genre_distribution": {
+    "unknown": 1355,
+    "letter": 150,
+    "memo": 11,
+    "note": 10,
+    "administrative regulation": 9,
+    "note for the file": 8,
+    "debt note": 5,
+    "list": 3,
+    "legal writing(s)": 3,
+    "agreement (contract)": 2,
+    "agreement (contract) | final communique": 2,
+    "administrative regulation | testimony": 1,
+    "settlement of accounts": 1,
+    "judgement | agreement": 1
+  },
+  "vocabulary": {
+    "source_vocab_size": 11712,
+    "target_vocab_size": 10024,
+    "source_total_tokens": 89807,
+    "target_total_tokens": 141267
+  },
+  "files": {
+    "akkadian_corpus.csv": {
+      "total_records": 7953,
+      "parallel_texts": 1561,
+      "monolingual_texts": 6392
+    },
+    "akkadian_dictionary.csv": {
+      "total_entries": 39659,
+      "lexicon_entries": 39332,
+      "logogram_entries": 327
+    }
+  }
+}

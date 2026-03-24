@@ -1,0 +1,19 @@
+{
+  "id": "yuanchuan64/akkadian-baseline-ref",
+  "title": "akkadian-baseline-ref",
+  "code_file": "akkadian-baseline-ref.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "competition_sources": [
+    "deep-past-initiative-machine-translation"
+  ],
+  "dataset_sources": [
+    "yuanchuan64/akkadian-baseline",
+    "yuanchuan64/akkadian-namematch"
+  ],
+  "model_sources": []
+}

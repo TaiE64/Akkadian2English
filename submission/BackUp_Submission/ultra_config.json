@@ -1,0 +1,26 @@
+{
+  "batch_size": 1,
+  "num_beams": 4,
+  "length_penalty": 1.3,
+  "no_repeat_ngram_size": 0,
+  "bf16_only_amp": {
+    "use_mixed_precision_flag": true,
+    "bf16_supported": true,
+    "bf16_autocast_active": true,
+    "never_fp16": true
+  },
+  "mbr": {
+    "use_mbr": false,
+    "mbr_num_beam_cands": 3,
+    "mbr_num_sample_cands": 0,
+    "mbr_top_p": 0.9,
+    "mbr_temperature": 0.7,
+    "mbr_pool_cap": 32
+  },
+  "optimizations": {
+    "better_transformer": false,
+    "bucket_batching": true,
+    "vectorized_postproc": true,
+    "adaptive_beams": true
+  }
+}
